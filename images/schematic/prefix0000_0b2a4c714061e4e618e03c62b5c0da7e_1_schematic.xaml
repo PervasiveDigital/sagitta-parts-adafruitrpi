@@ -1,0 +1,870 @@
+﻿<DrawingGroup xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:svg="http://sharpvectors.codeplex.com/runtime/">
+  <DrawingGroup x:Name="DrawingLayer" svg:SvgLink.Key="DrawingLayer">
+    <DrawingGroup.ClipGeometry>
+      <RectangleGeometry Rect="0,0,100.8,172.8" />
+    </DrawingGroup.ClipGeometry>
+    <GeometryDrawing>
+      <GeometryDrawing.Pen>
+        <Pen Brush="#00FFFFFF" Thickness="1" />
+      </GeometryDrawing.Pen>
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry Rect="0,0,100.8,172.8" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <DrawingGroup x:Name="schematic" Opacity="1" svg:SvgObject.Id="schematic">
+      <GeometryDrawing x:Name="rect7" svg:SvgObject.Id="rect7">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF000000" Thickness="0.9" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <RectangleGeometry RadiusX="0" RadiusY="0" Rect="14.4,14.4,71.55,144" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label" svg:SvgObject.Id="label" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF000000">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="44.1866686666667,79.4002" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6 7" Characters="Adafruit" GlyphIndices="36 71 68 73 85 88 76 87" AdvanceWidths="2.2575 2.0615 1.7815 1.0955 1.218 1.981 0.847 1.1865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <DrawingGroup x:Name="text10" svg:SvgObject.Id="text10" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF000000">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="42.4133353333333,82.900101" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6 7 8" Characters="3W Stereo" GlyphIndices="22 58 3 54 87 72 85 72 82" AdvanceWidths="1.8865 3.269 0.959 1.7465 1.1865 1.8305 1.218 1.8305 2.051" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <DrawingGroup x:Name="text12" svg:SvgObject.Id="text12" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF000000">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="44.2433353333333,86.400002" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6" Characters="Speaker" GlyphIndices="54 83 72 68 78 72 85" AdvanceWidths="1.8585 2.058 1.8305 1.7815 1.7395 1.8305 1.218" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <DrawingGroup x:Name="text14" svg:SvgObject.Id="text14" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF000000">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="45.4766686666667,89.899902" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="Bonne" GlyphIndices="37 82 81 81 72" AdvanceWidths="2.0055 2.051 1.981 1.981 1.8305" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line16" svg:SvgObject.Id="line16">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,36" EndPoint="14.4,36" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label58" svg:SvgObject.Id="label58" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,36.7" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3" Characters="3.3V" GlyphIndices="22 17 22 57" AdvanceWidths="1.8865 0.7595 1.8865 2.1735" GlyphOffsets="0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line21" svg:SvgObject.Id="line21">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,43.2" EndPoint="14.4,43.2" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label20" svg:SvgObject.Id="label20" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,43.9" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2" Characters="SDA" GlyphIndices="54 39 36" AdvanceWidths="1.8585 2.3695 2.2575" GlyphOffsets="0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line26" svg:SvgObject.Id="line26">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,50.4" EndPoint="14.4,50.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label21" svg:SvgObject.Id="label21" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,51.1" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2" Characters="SCL" GlyphIndices="54 38 47" AdvanceWidths="1.8585 2.1665 1.645" GlyphOffsets="0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line31" svg:SvgObject.Id="line31">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,57.6" EndPoint="14.4,57.6" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label24" svg:SvgObject.Id="label24" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,58.3" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="GPIO4" GlyphIndices="42 51 44 50 23" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line36" svg:SvgObject.Id="line36">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,64.8" EndPoint="14.4,64.8" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label25" svg:SvgObject.Id="label25" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,65.5" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO17" GlyphIndices="42 51 44 50 20 26" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line41" svg:SvgObject.Id="line41">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,72" EndPoint="14.4,72" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label27" svg:SvgObject.Id="label27" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,72.6998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO27" GlyphIndices="42 51 44 50 21 26" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line46" svg:SvgObject.Id="line46">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,79.2" EndPoint="14.4,79.2" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label28" svg:SvgObject.Id="label28" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,79.8998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO22" GlyphIndices="42 51 44 50 21 21" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line51" svg:SvgObject.Id="line51">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,86.4" EndPoint="14.4,86.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label32" svg:SvgObject.Id="label32" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,87.0998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6 7" Characters="SPI_MOSI" GlyphIndices="54 51 44 66 48 50 54 44" AdvanceWidths="1.8585 1.96 0.931 1.4525 3.143 2.639 1.8585 0.931" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line56" svg:SvgObject.Id="line56">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,93.6" EndPoint="14.4,93.6" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label33" svg:SvgObject.Id="label33" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,94.2998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6 7" Characters="SPI_MISO" GlyphIndices="54 51 44 66 48 44 54 50" AdvanceWidths="1.8585 1.96 0.931 1.4525 3.143 0.931 1.8585 2.639" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line61" svg:SvgObject.Id="line61">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,100.8" EndPoint="14.4,100.8" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label34" svg:SvgObject.Id="label34" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,101.5" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6 7" Characters="SPI_SCLK" GlyphIndices="54 51 44 66 54 38 47 46" AdvanceWidths="1.8585 1.96 0.931 1.4525 1.8585 2.1665 1.645 2.03" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line66" svg:SvgObject.Id="line66">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,108" EndPoint="14.4,108" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label128" svg:SvgObject.Id="label128" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,108.7" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="EEDATA" GlyphIndices="40 40 39 36 55 36" AdvanceWidths="1.771 1.771 2.3695 2.0055 1.5925 2.2575" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line71" svg:SvgObject.Id="line71">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,115.2" EndPoint="14.4,115.2" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label37" svg:SvgObject.Id="label37" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,115.9" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="GPIO5" GlyphIndices="42 51 44 50 24" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line76" svg:SvgObject.Id="line76">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,122.4" EndPoint="14.4,122.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label38" svg:SvgObject.Id="label38" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,123.1" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="GPIO6" GlyphIndices="42 51 44 50 25" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line81" svg:SvgObject.Id="line81">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,129.6" EndPoint="14.4,129.6" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label40" svg:SvgObject.Id="label40" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,130.3" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO13" GlyphIndices="42 51 44 50 20 22" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line86" svg:SvgObject.Id="line86">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,136.8" EndPoint="14.4,136.8" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label42" svg:SvgObject.Id="label42" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,137.5" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="LRCLK" GlyphIndices="47 53 38 47 46" AdvanceWidths="1.645 2.044 2.1665 1.645 2.03" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line91" svg:SvgObject.Id="line91">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="0.35,144" EndPoint="14.4,144" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label138" svg:SvgObject.Id="label138" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="15.8,144.7" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO26" GlyphIndices="42 51 44 50 21 25" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line96" svg:SvgObject.Id="line96">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,36" EndPoint="100.45,36" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label55" svg:SvgObject.Id="label55" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="78.2936333333333,36.7" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3" Characters="5.0V" GlyphIndices="24 17 19 57" AdvanceWidths="1.8865 0.7595 1.8865 2.1735" GlyphOffsets="0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line101" svg:SvgObject.Id="line101">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,43.2" EndPoint="100.45,43.2" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label22" svg:SvgObject.Id="label22" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="78.6503,43.9" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2" Characters="TXD" GlyphIndices="55 59 39" AdvanceWidths="1.834 2.065 2.4535" GlyphOffsets="0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line106" svg:SvgObject.Id="line106">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,50.4" EndPoint="100.45,50.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label23" svg:SvgObject.Id="label23" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="78.3903,51.1" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2" Characters="RXD" GlyphIndices="53 59 39" AdvanceWidths="2.093 2.065 2.4535" GlyphOffsets="0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line111" svg:SvgObject.Id="line111">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,57.6" EndPoint="100.45,57.6" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label26" svg:SvgObject.Id="label26" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="77.1503,58.3" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3" Characters="BCLK" GlyphIndices="37 38 47 46" AdvanceWidths="2.0055 2.1665 1.645 2.03" GlyphOffsets="0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line116" svg:SvgObject.Id="line116">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,64.8" EndPoint="100.45,64.8" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label29" svg:SvgObject.Id="label29" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="73.2969666666667,65.5" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO23" GlyphIndices="42 51 44 50 21 22" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line121" svg:SvgObject.Id="line121">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,72" EndPoint="100.45,72" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label30" svg:SvgObject.Id="label30" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="73.2969666666667,72.6998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO24" GlyphIndices="42 51 44 50 21 23" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line126" svg:SvgObject.Id="line126">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,79.2" EndPoint="100.45,79.2" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label31" svg:SvgObject.Id="label31" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="73.2969666666667,79.8998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO25" GlyphIndices="42 51 44 50 21 24" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line131" svg:SvgObject.Id="line131">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,86.4" EndPoint="100.45,86.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label35" svg:SvgObject.Id="label35" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="72.9736333333333,87.0998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6" Characters="SPI_CE0" GlyphIndices="54 51 44 66 38 40 19" AdvanceWidths="1.8585 1.96 0.931 1.4525 2.1665 1.771 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line136" svg:SvgObject.Id="line136">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,93.6" EndPoint="100.45,93.6" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label36" svg:SvgObject.Id="label36" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="72.9736333333333,94.2998" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5 6" Characters="SPI_CE1" GlyphIndices="54 51 44 66 38 40 20" AdvanceWidths="1.8585 1.96 0.931 1.4525 2.1665 1.771 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line141" svg:SvgObject.Id="line141">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,100.8" EndPoint="100.45,100.8" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label129" svg:SvgObject.Id="label129" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="75.6169666666667,101.5" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="EECLK" GlyphIndices="40 40 38 47 46" AdvanceWidths="1.771 1.771 2.1665 1.645 2.03" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line146" svg:SvgObject.Id="line146">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,108" EndPoint="100.45,108" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label39" svg:SvgObject.Id="label39" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="73.2969666666667,108.7" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO12" GlyphIndices="42 51 44 50 20 21" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line151" svg:SvgObject.Id="line151">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,115.2" EndPoint="100.45,115.2" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label41" svg:SvgObject.Id="label41" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="73.2969666666667,115.9" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO16" GlyphIndices="42 51 44 50 20 25" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line156" svg:SvgObject.Id="line156">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,122.4" EndPoint="100.45,122.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label43" svg:SvgObject.Id="label43" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="73.2969666666667,123.1" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="GPIO20" GlyphIndices="42 51 44 50 21 19" AdvanceWidths="2.401 1.96 0.931 2.639 1.8865 1.8865" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line161" svg:SvgObject.Id="line161">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="86.0501,129.6" EndPoint="100.45,129.6" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup x:Name="label44" svg:SvgObject.Id="label44" svg:SvgObject.Type="Text">
+        <DrawingGroup>
+          <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+            <GlyphRunDrawing.GlyphRun>
+              <GlyphRun PixelsPerDip="2.5" BaselineOrigin="79.0003,130.3" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2" Characters="DIN" GlyphIndices="39 44 49" AdvanceWidths="2.4535 0.931 2.618" GlyphOffsets="0,0 0,0 0,0" Language="en-us">
+                <GlyphRun.GlyphTypeface>
+                  <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                </GlyphRun.GlyphTypeface>
+              </GlyphRun>
+            </GlyphRunDrawing.GlyphRun>
+          </GlyphRunDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line166" svg:SvgObject.Id="line166">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="36,0.35" EndPoint="36,14.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup Opacity="1" Transform="1,0,0,1,37.4,16">
+        <DrawingGroup x:Name="g170" Opacity="1" svg:SvgObject.Id="g170">
+          <DrawingGroup Opacity="1" Transform="-1.83690953073357E-16,-1,1,-1.83690953073357E-16,0,0">
+            <DrawingGroup x:Name="g172" Opacity="1" svg:SvgObject.Id="g172">
+              <DrawingGroup x:Name="label145" svg:SvgObject.Id="label145" svg:SvgObject.Type="Text">
+                <DrawingGroup>
+                  <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+                    <GlyphRunDrawing.GlyphRun>
+                      <GlyphRun PixelsPerDip="2.5" BaselineOrigin="-11.14,0" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="RIGHT" GlyphIndices="53 44 42 43 55" AdvanceWidths="2.093 0.931 2.401 2.485 1.834" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                        <GlyphRun.GlyphTypeface>
+                          <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                        </GlyphRun.GlyphTypeface>
+                      </GlyphRun>
+                    </GlyphRunDrawing.GlyphRun>
+                  </GlyphRunDrawing>
+                  <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+                    <GlyphRunDrawing.GlyphRun>
+                      <GlyphRun PixelsPerDip="2.5" BaselineOrigin="-1.4,0" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" Characters="-" GlyphIndices="16" AdvanceWidths="1.4" Language="en-us">
+                        <GlyphRun.GlyphTypeface>
+                          <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                        </GlyphRun.GlyphTypeface>
+                      </GlyphRun>
+                    </GlyphRunDrawing.GlyphRun>
+                  </GlyphRunDrawing>
+                </DrawingGroup>
+              </DrawingGroup>
+            </DrawingGroup>
+          </DrawingGroup>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line175" svg:SvgObject.Id="line175">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="43.2,0.35" EndPoint="43.2,14.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup Opacity="1" Transform="1,0,0,1,44.6,16">
+        <DrawingGroup x:Name="g179" Opacity="1" svg:SvgObject.Id="g179">
+          <DrawingGroup Opacity="1" Transform="-1.83690953073357E-16,-1,1,-1.83690953073357E-16,0,0">
+            <DrawingGroup x:Name="g181" Opacity="1" svg:SvgObject.Id="g181">
+              <DrawingGroup x:Name="label146" svg:SvgObject.Id="label146" svg:SvgObject.Type="Text">
+                <DrawingGroup>
+                  <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+                    <GlyphRunDrawing.GlyphRun>
+                      <GlyphRun PixelsPerDip="2.5" BaselineOrigin="-12.1333333333333,0" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4 5" Characters="RIGHT+" GlyphIndices="53 44 42 43 55 14" AdvanceWidths="2.093 0.931 2.401 2.485 1.834 2.394" GlyphOffsets="0,0 0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                        <GlyphRun.GlyphTypeface>
+                          <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                        </GlyphRun.GlyphTypeface>
+                      </GlyphRun>
+                    </GlyphRunDrawing.GlyphRun>
+                  </GlyphRunDrawing>
+                </DrawingGroup>
+              </DrawingGroup>
+            </DrawingGroup>
+          </DrawingGroup>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line184" svg:SvgObject.Id="line184">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="50.4,0.35" EndPoint="50.4,14.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup Opacity="1" Transform="1,0,0,1,51.8,16">
+        <DrawingGroup x:Name="g188" Opacity="1" svg:SvgObject.Id="g188">
+          <DrawingGroup Opacity="1" Transform="-1.83690953073357E-16,-1,1,-1.83690953073357E-16,0,0">
+            <DrawingGroup x:Name="g190" Opacity="1" svg:SvgObject.Id="g190">
+              <DrawingGroup x:Name="label147" svg:SvgObject.Id="label147" svg:SvgObject.Type="Text">
+                <DrawingGroup>
+                  <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+                    <GlyphRunDrawing.GlyphRun>
+                      <GlyphRun PixelsPerDip="2.5" BaselineOrigin="-9.35333333333333,0" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3 4" Characters="LEFT+" GlyphIndices="47 40 41 55 14" AdvanceWidths="1.645 1.771 1.7115 1.834 2.394" GlyphOffsets="0,0 0,0 0,0 0,0 0,0" Language="en-us">
+                        <GlyphRun.GlyphTypeface>
+                          <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                        </GlyphRun.GlyphTypeface>
+                      </GlyphRun>
+                    </GlyphRunDrawing.GlyphRun>
+                  </GlyphRunDrawing>
+                </DrawingGroup>
+              </DrawingGroup>
+            </DrawingGroup>
+          </DrawingGroup>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line193" svg:SvgObject.Id="line193">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="57.6,0.35" EndPoint="57.6,14.4" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup Opacity="1" Transform="1,0,0,1,59,16">
+        <DrawingGroup x:Name="g197" Opacity="1" svg:SvgObject.Id="g197">
+          <DrawingGroup Opacity="1" Transform="-1.83690953073357E-16,-1,1,-1.83690953073357E-16,0,0">
+            <DrawingGroup x:Name="g199" Opacity="1" svg:SvgObject.Id="g199">
+              <DrawingGroup x:Name="label148" svg:SvgObject.Id="label148" svg:SvgObject.Type="Text">
+                <DrawingGroup>
+                  <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+                    <GlyphRunDrawing.GlyphRun>
+                      <GlyphRun PixelsPerDip="2.5" BaselineOrigin="-8.36,0" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2 3" Characters="LEFT" GlyphIndices="47 40 41 55" AdvanceWidths="1.645 1.771 1.7115 1.834" GlyphOffsets="0,0 0,0 0,0 0,0" Language="en-us">
+                        <GlyphRun.GlyphTypeface>
+                          <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                        </GlyphRun.GlyphTypeface>
+                      </GlyphRun>
+                    </GlyphRunDrawing.GlyphRun>
+                  </GlyphRunDrawing>
+                  <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+                    <GlyphRunDrawing.GlyphRun>
+                      <GlyphRun PixelsPerDip="2.5" BaselineOrigin="-1.4,0" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" Characters="-" GlyphIndices="16" AdvanceWidths="1.4" Language="en-us">
+                        <GlyphRun.GlyphTypeface>
+                          <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                        </GlyphRun.GlyphTypeface>
+                      </GlyphRun>
+                    </GlyphRunDrawing.GlyphRun>
+                  </GlyphRunDrawing>
+                </DrawingGroup>
+              </DrawingGroup>
+            </DrawingGroup>
+          </DrawingGroup>
+        </DrawingGroup>
+      </DrawingGroup>
+      <GeometryDrawing x:Name="line202" svg:SvgObject.Id="line202">
+        <GeometryDrawing.Pen>
+          <Pen Brush="#FF787878" Thickness="0.699998" StartLineCap="Round" EndLineCap="Round" LineJoin="Round" MiterLimit="1" />
+        </GeometryDrawing.Pen>
+        <GeometryDrawing.Geometry>
+          <LineGeometry StartPoint="50.4,158.4" EndPoint="50.4,172.45" />
+        </GeometryDrawing.Geometry>
+      </GeometryDrawing>
+      <DrawingGroup Opacity="1" Transform="1,0,0,1,51.8,156.8">
+        <DrawingGroup x:Name="g206" Opacity="1" svg:SvgObject.Id="g206">
+          <DrawingGroup Opacity="1" Transform="-1.83690953073357E-16,-1,1,-1.83690953073357E-16,0,0">
+            <DrawingGroup x:Name="g208" Opacity="1" svg:SvgObject.Id="g208">
+              <DrawingGroup x:Name="label61" svg:SvgObject.Id="label61" svg:SvgObject.Type="Text">
+                <DrawingGroup>
+                  <GlyphRunDrawing ForegroundBrush="#FF8C8C8C">
+                    <GlyphRunDrawing.GlyphRun>
+                      <GlyphRun PixelsPerDip="2.5" BaselineOrigin="0,0" FontRenderingEmSize="3.5" BidiLevel="0" IsSideways="False" ClusterMap="0 1 2" Characters="GND" GlyphIndices="42 49 39" AdvanceWidths="2.401 2.618 2.4535" GlyphOffsets="0,0 0,0 0,0" Language="en-us">
+                        <GlyphRun.GlyphTypeface>
+                          <GlyphTypeface FontUri="{svg:SvgFontUri c:/windows/fonts/segoeui.ttf}" StyleSimulations="None" />
+                        </GlyphRun.GlyphTypeface>
+                      </GlyphRun>
+                    </GlyphRunDrawing.GlyphRun>
+                  </GlyphRunDrawing>
+                </DrawingGroup>
+              </DrawingGroup>
+            </DrawingGroup>
+          </DrawingGroup>
+        </DrawingGroup>
+      </DrawingGroup>
+    </DrawingGroup>
+  </DrawingGroup>
+</DrawingGroup>

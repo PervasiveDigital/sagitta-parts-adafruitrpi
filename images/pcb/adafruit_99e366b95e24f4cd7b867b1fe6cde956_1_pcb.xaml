@@ -1,0 +1,2413 @@
+﻿<DrawingGroup xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:svg="http://sharpvectors.codeplex.com/runtime/">
+  <DrawingGroup x:Name="DrawingLayer" svg:SvgLink.Key="DrawingLayer">
+    <DrawingGroup.ClipGeometry>
+      <RectangleGeometry Rect="0,0,240.98547,158.82007" />
+    </DrawingGroup.ClipGeometry>
+    <GeometryDrawing>
+      <GeometryDrawing.Pen>
+        <Pen Brush="#00FFFFFF" Thickness="1" />
+      </GeometryDrawing.Pen>
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry Rect="0,0,240.98547,158.82007" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <DrawingGroup Opacity="1" Transform="1,0,0,1,-4.24253,-18.367789">
+      <DrawingGroup x:Name="silkscreen" Opacity="1" svg:SvgObject.Id="silkscreen">
+        <GeometryDrawing x:Name="path7" svg:SvgObject.Id="path7">
+          <GeometryDrawing.Pen>
+            <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+          </GeometryDrawing.Pen>
+          <GeometryDrawing.Geometry>
+            <PathGeometry FillRule="Nonzero" Figures="M244.94,176.9L4.53053,176.9 4.53053,18.6556 244.94,18.6556 244.94,176.9 M14.9772,131.463A3.6805,3.6805,0,1,0,22.33819,131.463A3.6805,3.6805,0,1,0,14.9772,131.463z M14.9772,43.5884A3.6805,3.6805,0,1,0,22.33819,43.5884A3.6805,3.6805,0,1,0,14.9772,43.5884z M227.575,43.5884A3.6805,3.6805,0,1,0,234.93599,43.5884A3.6805,3.6805,0,1,0,227.575,43.5884z M227.575,131.463A3.6805,3.6805,0,1,0,234.93599,131.463A3.6805,3.6805,0,1,0,227.575,131.463z" />
+          </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup x:Name="g9" Opacity="1" svg:SvgObject.Id="g9">
+          <DrawingGroup x:Name="g13" Opacity="1" svg:SvgObject.Id="g13">
+            <GeometryDrawing x:Name="line17" Brush="#FF000000" svg:SvgObject.Id="line17">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="216.037,169.965" EndPoint="215.317,169.965" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line19" Brush="#FF000000" svg:SvgObject.Id="line19">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="216.037,169.965" EndPoint="216.037,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line21" Brush="#FF000000" svg:SvgObject.Id="line21">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="215.317,165.645" EndPoint="216.037,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line23" Brush="#FF000000" svg:SvgObject.Id="line23">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="197.317,165.645" EndPoint="198.037,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line25" Brush="#FF000000" svg:SvgObject.Id="line25">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="197.317,165.645" EndPoint="197.317,169.965" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line27" Brush="#FF000000" svg:SvgObject.Id="line27">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="198.037,169.965" EndPoint="197.317,169.965" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line29" Brush="#FF000000" svg:SvgObject.Id="line29">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,159.165" EndPoint="203.077,159.885" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line31" Brush="#FF000000" svg:SvgObject.Id="line31">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="210.277,159.885" EndPoint="203.077,159.885" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line33" Brush="#FF000000" svg:SvgObject.Id="line33">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="210.277,159.885" EndPoint="210.277,159.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line35" Brush="#FF000000" svg:SvgObject.Id="line35">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="209.917,175.725" EndPoint="203.077,175.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line37" Brush="#FF000000" svg:SvgObject.Id="line37">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="209.917,175.725" EndPoint="209.917,176.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line39" Brush="#FF000000" svg:SvgObject.Id="line39">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,175.725" EndPoint="203.077,176.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line41" Brush="#FF000000" svg:SvgObject.Id="line41">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="200.557,176.445" EndPoint="203.077,176.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line43" Brush="#FF000000" svg:SvgObject.Id="line43">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="212.797,159.165" EndPoint="210.277,159.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line45" Brush="#FF000000" svg:SvgObject.Id="line45">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="210.277,159.165" EndPoint="203.077,159.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line47" Brush="#FF000000" svg:SvgObject.Id="line47">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,159.165" EndPoint="200.557,159.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line49" Brush="#FF000000" svg:SvgObject.Id="line49">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,176.445" EndPoint="209.917,176.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line51" Brush="#FF000000" svg:SvgObject.Id="line51">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="209.917,176.445" EndPoint="212.797,176.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line53" Brush="#FF000000" svg:SvgObject.Id="line53">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="215.317,169.965" EndPoint="215.317,170.685" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line55" Brush="#FF000000" svg:SvgObject.Id="line55">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="215.317,165.645" EndPoint="215.317,164.925" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line57" Brush="#FF000000" svg:SvgObject.Id="line57">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="198.037,169.965" EndPoint="198.037,170.685" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line59" Brush="#FF000000" svg:SvgObject.Id="line59">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="198.037,165.645" EndPoint="198.037,164.925" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle61" svg:SvgObject.Id="circle61">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="5.04" RadiusY="5.04" Center="206.677,167.805" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle63" svg:SvgObject.Id="circle63">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="0.72" RadiusY="0.72" Center="206.677,167.805" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g65" Opacity="1" svg:SvgObject.Id="g65">
+          <DrawingGroup x:Name="g69" Opacity="1" svg:SvgObject.Id="g69">
+            <GeometryDrawing x:Name="line73" Brush="#FF000000" svg:SvgObject.Id="line73">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="110.557,156.645" EndPoint="110.557,150.525" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path75" svg:SvgObject.Id="path75">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M110.557,156.645A1.8,1.8,0,1,0,110.557,160.245" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line77" Brush="#FF000000" svg:SvgObject.Id="line77">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="110.557,150.525" EndPoint="5.4369,150.525" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line79" Brush="#FF000000" svg:SvgObject.Id="line79">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="110.557,166.365" EndPoint="110.557,160.245" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line81" Brush="#FF000000" svg:SvgObject.Id="line81">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="110.557,166.365" EndPoint="5.4369,166.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line83" Brush="#FF000000" svg:SvgObject.Id="line83">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="5.4369,166.365" EndPoint="5.4369,150.525" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g85" Opacity="1" svg:SvgObject.Id="g85">
+          <DrawingGroup x:Name="g89" Opacity="1" svg:SvgObject.Id="g89">
+            <GeometryDrawing x:Name="line93" Brush="#FF000000" svg:SvgObject.Id="line93">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="177.157,167.085" EndPoint="177.157,166.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line95" Brush="#FF000000" svg:SvgObject.Id="line95">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="177.157,167.085" EndPoint="181.477,167.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line97" Brush="#FF000000" svg:SvgObject.Id="line97">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="181.477,166.365" EndPoint="181.477,167.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line99" Brush="#FF000000" svg:SvgObject.Id="line99">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="181.477,148.365" EndPoint="181.477,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line101" Brush="#FF000000" svg:SvgObject.Id="line101">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="181.477,148.365" EndPoint="177.157,148.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line103" Brush="#FF000000" svg:SvgObject.Id="line103">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="177.157,149.085" EndPoint="177.157,148.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line105" Brush="#FF000000" svg:SvgObject.Id="line105">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="187.957,154.125" EndPoint="187.237,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line107" Brush="#FF000000" svg:SvgObject.Id="line107">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="187.237,161.325" EndPoint="187.237,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line109" Brush="#FF000000" svg:SvgObject.Id="line109">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="187.237,161.325" EndPoint="187.957,161.325" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line111" Brush="#FF000000" svg:SvgObject.Id="line111">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="171.397,160.965" EndPoint="171.397,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line113" Brush="#FF000000" svg:SvgObject.Id="line113">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="171.397,160.965" EndPoint="170.677,160.965" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line115" Brush="#FF000000" svg:SvgObject.Id="line115">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="171.397,154.125" EndPoint="170.677,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line117" Brush="#FF000000" svg:SvgObject.Id="line117">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="170.677,151.605" EndPoint="170.677,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line119" Brush="#FF000000" svg:SvgObject.Id="line119">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="187.957,163.845" EndPoint="187.957,161.325" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line121" Brush="#FF000000" svg:SvgObject.Id="line121">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="187.957,161.325" EndPoint="187.957,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line123" Brush="#FF000000" svg:SvgObject.Id="line123">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="187.957,154.125" EndPoint="187.957,151.605" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line125" Brush="#FF000000" svg:SvgObject.Id="line125">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="170.677,154.125" EndPoint="170.677,160.965" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line127" Brush="#FF000000" svg:SvgObject.Id="line127">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="170.677,160.965" EndPoint="170.677,163.845" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line129" Brush="#FF000000" svg:SvgObject.Id="line129">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="177.157,166.365" EndPoint="176.437,166.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line131" Brush="#FF000000" svg:SvgObject.Id="line131">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="181.477,166.365" EndPoint="182.197,166.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line133" Brush="#FF000000" svg:SvgObject.Id="line133">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="177.157,149.085" EndPoint="176.437,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line135" Brush="#FF000000" svg:SvgObject.Id="line135">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="181.477,149.085" EndPoint="182.197,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle137" svg:SvgObject.Id="circle137">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="5.04" RadiusY="5.04" Center="179.317,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle139" svg:SvgObject.Id="circle139">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="0.72" RadiusY="0.72" Center="179.317,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g141" Opacity="1" svg:SvgObject.Id="g141">
+          <DrawingGroup x:Name="g145" Opacity="1" svg:SvgObject.Id="g145">
+            <GeometryDrawing x:Name="line149" Brush="#FF000000" svg:SvgObject.Id="line149">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="234.757,149.085" EndPoint="234.757,149.805" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line151" Brush="#FF000000" svg:SvgObject.Id="line151">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="234.757,149.085" EndPoint="230.437,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line153" Brush="#FF000000" svg:SvgObject.Id="line153">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="230.437,149.805" EndPoint="230.437,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line155" Brush="#FF000000" svg:SvgObject.Id="line155">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="230.437,167.805" EndPoint="230.437,167.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line157" Brush="#FF000000" svg:SvgObject.Id="line157">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="230.437,167.805" EndPoint="234.757,167.805" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line159" Brush="#FF000000" svg:SvgObject.Id="line159">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="234.757,167.085" EndPoint="234.757,167.805" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line161" Brush="#FF000000" svg:SvgObject.Id="line161">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="223.957,162.045" EndPoint="224.677,162.045" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line163" Brush="#FF000000" svg:SvgObject.Id="line163">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="224.677,154.845" EndPoint="224.677,162.045" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line165" Brush="#FF000000" svg:SvgObject.Id="line165">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="224.677,154.845" EndPoint="223.957,154.845" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line167" Brush="#FF000000" svg:SvgObject.Id="line167">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="240.517,155.205" EndPoint="240.517,162.045" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line169" Brush="#FF000000" svg:SvgObject.Id="line169">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="240.517,155.205" EndPoint="241.237,155.205" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line171" Brush="#FF000000" svg:SvgObject.Id="line171">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="240.517,162.045" EndPoint="241.237,162.045" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line173" Brush="#FF000000" svg:SvgObject.Id="line173">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="241.237,164.565" EndPoint="241.237,162.045" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line175" Brush="#FF000000" svg:SvgObject.Id="line175">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="223.957,152.325" EndPoint="223.957,154.845" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line177" Brush="#FF000000" svg:SvgObject.Id="line177">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="223.957,154.845" EndPoint="223.957,162.045" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line179" Brush="#FF000000" svg:SvgObject.Id="line179">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="223.957,162.045" EndPoint="223.957,164.565" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line181" Brush="#FF000000" svg:SvgObject.Id="line181">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="241.237,162.045" EndPoint="241.237,155.205" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line183" Brush="#FF000000" svg:SvgObject.Id="line183">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="241.237,155.205" EndPoint="241.237,152.325" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line185" Brush="#FF000000" svg:SvgObject.Id="line185">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="234.757,149.805" EndPoint="235.477,149.805" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line187" Brush="#FF000000" svg:SvgObject.Id="line187">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="230.437,149.805" EndPoint="229.717,149.805" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line189" Brush="#FF000000" svg:SvgObject.Id="line189">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="234.757,167.085" EndPoint="235.477,167.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line191" Brush="#FF000000" svg:SvgObject.Id="line191">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="230.437,167.085" EndPoint="229.717,167.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle193" svg:SvgObject.Id="circle193">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="5.04" RadiusY="5.04" Center="232.597,158.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle195" svg:SvgObject.Id="circle195">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="0.72" RadiusY="0.72" Center="232.597,158.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g197" Opacity="1" svg:SvgObject.Id="g197">
+          <DrawingGroup x:Name="g201" Opacity="1" svg:SvgObject.Id="g201">
+            <GeometryDrawing x:Name="line205" Brush="#FF000000" svg:SvgObject.Id="line205">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="160.597,159.165" EndPoint="159.877,159.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line207" Brush="#FF000000" svg:SvgObject.Id="line207">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="160.597,159.165" EndPoint="160.597,154.845" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line209" Brush="#FF000000" svg:SvgObject.Id="line209">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="159.877,154.845" EndPoint="160.597,154.845" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line211" Brush="#FF000000" svg:SvgObject.Id="line211">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="141.877,154.845" EndPoint="142.597,154.845" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line213" Brush="#FF000000" svg:SvgObject.Id="line213">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="141.877,154.845" EndPoint="141.877,159.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line215" Brush="#FF000000" svg:SvgObject.Id="line215">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="142.597,159.165" EndPoint="141.877,159.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line217" Brush="#FF000000" svg:SvgObject.Id="line217">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="147.637,148.365" EndPoint="147.637,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line219" Brush="#FF000000" svg:SvgObject.Id="line219">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="154.837,149.085" EndPoint="147.637,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line221" Brush="#FF000000" svg:SvgObject.Id="line221">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="154.837,149.085" EndPoint="154.837,148.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line223" Brush="#FF000000" svg:SvgObject.Id="line223">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="154.477,164.925" EndPoint="147.637,164.925" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line225" Brush="#FF000000" svg:SvgObject.Id="line225">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="154.477,164.925" EndPoint="154.477,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line227" Brush="#FF000000" svg:SvgObject.Id="line227">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="147.637,164.925" EndPoint="147.637,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line229" Brush="#FF000000" svg:SvgObject.Id="line229">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="145.117,165.645" EndPoint="147.637,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line231" Brush="#FF000000" svg:SvgObject.Id="line231">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="157.357,148.365" EndPoint="154.837,148.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line233" Brush="#FF000000" svg:SvgObject.Id="line233">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="154.837,148.365" EndPoint="147.637,148.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line235" Brush="#FF000000" svg:SvgObject.Id="line235">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="147.637,148.365" EndPoint="145.117,148.365" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line237" Brush="#FF000000" svg:SvgObject.Id="line237">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="147.637,165.645" EndPoint="154.477,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line239" Brush="#FF000000" svg:SvgObject.Id="line239">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="154.477,165.645" EndPoint="157.357,165.645" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line241" Brush="#FF000000" svg:SvgObject.Id="line241">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="159.877,159.165" EndPoint="159.877,159.885" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line243" Brush="#FF000000" svg:SvgObject.Id="line243">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="159.877,154.845" EndPoint="159.877,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line245" Brush="#FF000000" svg:SvgObject.Id="line245">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="142.597,159.165" EndPoint="142.597,159.885" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line247" Brush="#FF000000" svg:SvgObject.Id="line247">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="142.597,154.845" EndPoint="142.597,154.125" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle249" svg:SvgObject.Id="circle249">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="5.04" RadiusY="5.04" Center="151.237,157.005" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle251" svg:SvgObject.Id="circle251">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="0.72" RadiusY="0.72" Center="151.237,157.005" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g253" Opacity="1" svg:SvgObject.Id="g253">
+          <DrawingGroup x:Name="g257" Opacity="1" svg:SvgObject.Id="g257">
+            <GeometryDrawing x:Name="line261" Brush="#FF000000" svg:SvgObject.Id="line261">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="1.72800004" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="122.797,159.525" EndPoint="126.397,155.925" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line263" Brush="#FF000000" svg:SvgObject.Id="line263">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="128.197,154.125" EndPoint="128.557,153.765" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line265" Brush="#FF000000" svg:SvgObject.Id="line265">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="120.997,154.125" EndPoint="120.637,153.765" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line267" Brush="#FF000000" svg:SvgObject.Id="line267">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="120.997,161.325" EndPoint="120.637,161.685" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line269" Brush="#FF000000" svg:SvgObject.Id="line269">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="128.197,161.325" EndPoint="128.557,161.685" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path271" svg:SvgObject.Id="path271">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M115.419,159.561A9.35971,9.35971,0,0,0,124.597,167.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path273" svg:SvgObject.Id="path273">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M124.597,167.085A9.36,9.36,0,0,0,133.788,159.493" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path275" svg:SvgObject.Id="path275">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M122.077,148.725A9.34618,9.34618,0,0,0,115.447,155.819" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path277" svg:SvgObject.Id="path277">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M133.746,155.819A9.34618,9.34618,0,0,0,127.117,148.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle279" svg:SvgObject.Id="circle279">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="3.96" RadiusY="3.96" Center="124.597,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g281" Opacity="1" svg:SvgObject.Id="g281">
+          <DrawingGroup x:Name="g285" Opacity="1" svg:SvgObject.Id="g285">
+            <GeometryDrawing x:Name="line289" Brush="#FF000000" svg:SvgObject.Id="line289">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="11.571,138.549" EndPoint="238.342,138.549" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line291" Brush="#FF000000" svg:SvgObject.Id="line291">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="238.342,138.549" EndPoint="238.342,36.5018" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line293" Brush="#FF000000" svg:SvgObject.Id="line293">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="238.342,36.5018" EndPoint="11.571,36.5018" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line295" Brush="#FF000000" svg:SvgObject.Id="line295">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="11.571,36.5018" EndPoint="11.571,138.549" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line297" Brush="#FF000000" svg:SvgObject.Id="line297">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="23.9018,50.2497" EndPoint="226.012,50.2497" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line299" Brush="#FF000000" svg:SvgObject.Id="line299">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="226.012,50.2497" EndPoint="226.012,124.801" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line301" Brush="#FF000000" svg:SvgObject.Id="line301">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="226.012,124.801" EndPoint="23.9018,124.801" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line303" Brush="#FF000000" svg:SvgObject.Id="line303">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="23.9018,124.801" EndPoint="23.9018,50.2497" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line305" Brush="#FF000000" svg:SvgObject.Id="line305">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="34.9569,55.6753" EndPoint="214.957,55.6753" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line307" Brush="#FF000000" svg:SvgObject.Id="line307">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="214.957,55.6753" EndPoint="214.957,58.5099" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line309" Brush="#FF000000" svg:SvgObject.Id="line309">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="214.957,58.5099" EndPoint="34.9569,58.5099" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line311" Brush="#FF000000" svg:SvgObject.Id="line311">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="34.9569,58.5099" EndPoint="34.9569,55.6753" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line313" Brush="#FF000000" svg:SvgObject.Id="line313">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="34.9569,118.848" EndPoint="214.957,118.848" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line315" Brush="#FF000000" svg:SvgObject.Id="line315">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="214.957,118.848" EndPoint="214.957,116.014" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line317" Brush="#FF000000" svg:SvgObject.Id="line317">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="214.957,116.014" EndPoint="34.9569,116.014" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line319" Brush="#FF000000" svg:SvgObject.Id="line319">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="34.9569,116.014" EndPoint="34.9569,118.848" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path321" svg:SvgObject.Id="path321">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M41.658,64.8992A7.65576,7.65576,0,0,0,34.9569,73.4033" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line323" Brush="#FF000000" svg:SvgObject.Id="line323">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="34.9569,73.4033" EndPoint="34.9569,101.84" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path325" svg:SvgObject.Id="path325">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M34.9569,101.84A7.65576,7.65576,0,0,0,41.658,110.344" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line327" Brush="#FF000000" svg:SvgObject.Id="line327">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="41.658,110.344" EndPoint="207.508,110.344" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path329" svg:SvgObject.Id="path329">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M207.508,110.344A7.99409,7.99409,0,0,0,214.957,101.84" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line331" Brush="#FF000000" svg:SvgObject.Id="line331">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="214.957,101.84" EndPoint="214.957,73.4033" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="path333" svg:SvgObject.Id="path333">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry FillRule="Nonzero" Figures="M214.957,73.4033A7.99409,7.99409,0,0,0,207.508,64.8992" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line335" Brush="#FF000000" svg:SvgObject.Id="line335">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.36000001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="207.508,64.8992" EndPoint="41.658,64.8992" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g337" Opacity="1" svg:SvgObject.Id="g337">
+          <DrawingGroup x:Name="g341" Opacity="1" svg:SvgObject.Id="g341">
+            <GeometryDrawing x:Name="line345" Brush="#FF000000" svg:SvgObject.Id="line345">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="7.5969,33.5254" EndPoint="7.5969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line347" Brush="#FF000000" svg:SvgObject.Id="line347">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="7.5969,22.7254" EndPoint="9.3969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line349" Brush="#FF000000" svg:SvgObject.Id="line349">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="9.3969,20.9254" EndPoint="12.9969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line351" Brush="#FF000000" svg:SvgObject.Id="line351">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="12.9969,20.9254" EndPoint="14.7969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line353" Brush="#FF000000" svg:SvgObject.Id="line353">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="14.7969,22.7254" EndPoint="16.5969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line355" Brush="#FF000000" svg:SvgObject.Id="line355">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="16.5969,20.9254" EndPoint="20.1969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line357" Brush="#FF000000" svg:SvgObject.Id="line357">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="20.1969,20.9254" EndPoint="21.9969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line359" Brush="#FF000000" svg:SvgObject.Id="line359">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="21.9969,22.7254" EndPoint="23.7969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line361" Brush="#FF000000" svg:SvgObject.Id="line361">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="23.7969,20.9254" EndPoint="27.3969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line363" Brush="#FF000000" svg:SvgObject.Id="line363">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="27.3969,20.9254" EndPoint="29.1969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line365" Brush="#FF000000" svg:SvgObject.Id="line365">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="29.1969,22.7254" EndPoint="30.9969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line367" Brush="#FF000000" svg:SvgObject.Id="line367">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="30.9969,20.9254" EndPoint="34.5969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line369" Brush="#FF000000" svg:SvgObject.Id="line369">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="34.5969,20.9254" EndPoint="36.3969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line371" Brush="#FF000000" svg:SvgObject.Id="line371">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="36.3969,22.7254" EndPoint="38.1969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line373" Brush="#FF000000" svg:SvgObject.Id="line373">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="38.1969,20.9254" EndPoint="41.7969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line375" Brush="#FF000000" svg:SvgObject.Id="line375">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="41.7969,20.9254" EndPoint="43.5969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line377" Brush="#FF000000" svg:SvgObject.Id="line377">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="43.5969,22.7254" EndPoint="45.3969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line379" Brush="#FF000000" svg:SvgObject.Id="line379">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="45.3969,20.9254" EndPoint="48.9969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line381" Brush="#FF000000" svg:SvgObject.Id="line381">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="48.9969,20.9254" EndPoint="50.7969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line383" Brush="#FF000000" svg:SvgObject.Id="line383">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="50.7969,22.7254" EndPoint="52.5969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line385" Brush="#FF000000" svg:SvgObject.Id="line385">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="52.5969,20.9254" EndPoint="56.1969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line387" Brush="#FF000000" svg:SvgObject.Id="line387">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="56.1969,20.9254" EndPoint="57.9969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line389" Brush="#FF000000" svg:SvgObject.Id="line389">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="57.9969,22.7254" EndPoint="59.7969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line391" Brush="#FF000000" svg:SvgObject.Id="line391">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="59.7969,20.9254" EndPoint="63.3969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line393" Brush="#FF000000" svg:SvgObject.Id="line393">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="63.3969,20.9254" EndPoint="65.1969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line395" Brush="#FF000000" svg:SvgObject.Id="line395">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="65.1969,22.7254" EndPoint="66.9969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line397" Brush="#FF000000" svg:SvgObject.Id="line397">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="66.9969,20.9254" EndPoint="70.5969,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line399" Brush="#FF000000" svg:SvgObject.Id="line399">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="70.5969,20.9254" EndPoint="72.3967,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line401" Brush="#FF000000" svg:SvgObject.Id="line401">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="72.3967,22.7254" EndPoint="74.1967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line403" Brush="#FF000000" svg:SvgObject.Id="line403">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="74.1967,20.9254" EndPoint="77.7967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line405" Brush="#FF000000" svg:SvgObject.Id="line405">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="77.7967,20.9254" EndPoint="79.5967,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line407" Brush="#FF000000" svg:SvgObject.Id="line407">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="79.5967,22.7254" EndPoint="81.3967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line409" Brush="#FF000000" svg:SvgObject.Id="line409">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="81.3967,20.9254" EndPoint="84.9967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line411" Brush="#FF000000" svg:SvgObject.Id="line411">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="84.9967,20.9254" EndPoint="86.7967,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line413" Brush="#FF000000" svg:SvgObject.Id="line413">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="86.7967,22.7254" EndPoint="88.5967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line415" Brush="#FF000000" svg:SvgObject.Id="line415">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="88.5967,20.9254" EndPoint="92.1967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line417" Brush="#FF000000" svg:SvgObject.Id="line417">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="93.9967,22.7254" EndPoint="92.1967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line419" Brush="#FF000000" svg:SvgObject.Id="line419">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="93.9967,22.7254" EndPoint="95.7967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line421" Brush="#FF000000" svg:SvgObject.Id="line421">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="99.3967,20.9254" EndPoint="95.7967,20.9254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line423" Brush="#FF000000" svg:SvgObject.Id="line423">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="99.3967,20.9254" EndPoint="101.197,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line425" Brush="#FF000000" svg:SvgObject.Id="line425">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="14.7969,22.7254" EndPoint="14.7969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line427" Brush="#FF000000" svg:SvgObject.Id="line427">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="21.9969,22.7254" EndPoint="21.9969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line429" Brush="#FF000000" svg:SvgObject.Id="line429">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="29.1969,22.7254" EndPoint="29.1969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line431" Brush="#FF000000" svg:SvgObject.Id="line431">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="36.3969,22.7254" EndPoint="36.3969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line433" Brush="#FF000000" svg:SvgObject.Id="line433">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="43.5969,22.7254" EndPoint="43.5969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line435" Brush="#FF000000" svg:SvgObject.Id="line435">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="50.7969,22.7254" EndPoint="50.7969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line437" Brush="#FF000000" svg:SvgObject.Id="line437">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="57.9969,22.7254" EndPoint="57.9969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line439" Brush="#FF000000" svg:SvgObject.Id="line439">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="65.1969,22.7254" EndPoint="65.1969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line441" Brush="#FF000000" svg:SvgObject.Id="line441">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="72.3967,22.7254" EndPoint="72.3967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line443" Brush="#FF000000" svg:SvgObject.Id="line443">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="79.5967,22.7254" EndPoint="79.5967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line445" Brush="#FF000000" svg:SvgObject.Id="line445">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="86.7967,22.7254" EndPoint="86.7967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line447" Brush="#FF000000" svg:SvgObject.Id="line447">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="93.9967,22.7254" EndPoint="93.9967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line449" Brush="#FF000000" svg:SvgObject.Id="line449">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="101.197,22.7254" EndPoint="101.197,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line451" Brush="#FF000000" svg:SvgObject.Id="line451">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="101.197,22.7254" EndPoint="101.197,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line453" Brush="#FF000000" svg:SvgObject.Id="line453">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="101.197,33.5254" EndPoint="99.3967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line455" Brush="#FF000000" svg:SvgObject.Id="line455">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="99.3967,35.3254" EndPoint="95.7967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line457" Brush="#FF000000" svg:SvgObject.Id="line457">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="95.7967,35.3254" EndPoint="93.9967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line459" Brush="#FF000000" svg:SvgObject.Id="line459">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="93.9967,33.5254" EndPoint="92.1967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line461" Brush="#FF000000" svg:SvgObject.Id="line461">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="92.1967,35.3254" EndPoint="88.5967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line463" Brush="#FF000000" svg:SvgObject.Id="line463">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="88.5967,35.3254" EndPoint="86.7967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line465" Brush="#FF000000" svg:SvgObject.Id="line465">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="86.7967,33.5254" EndPoint="84.9967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line467" Brush="#FF000000" svg:SvgObject.Id="line467">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="84.9967,35.3254" EndPoint="81.3967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line469" Brush="#FF000000" svg:SvgObject.Id="line469">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="81.3967,35.3254" EndPoint="79.5967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line471" Brush="#FF000000" svg:SvgObject.Id="line471">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="79.5967,33.5254" EndPoint="77.7967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line473" Brush="#FF000000" svg:SvgObject.Id="line473">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="77.7967,35.3254" EndPoint="74.1967,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line475" Brush="#FF000000" svg:SvgObject.Id="line475">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="74.1967,35.3254" EndPoint="72.3967,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line477" Brush="#FF000000" svg:SvgObject.Id="line477">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="72.3967,33.5254" EndPoint="70.5969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line479" Brush="#FF000000" svg:SvgObject.Id="line479">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="70.5969,35.3254" EndPoint="66.9969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line481" Brush="#FF000000" svg:SvgObject.Id="line481">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="66.9969,35.3254" EndPoint="65.1969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line483" Brush="#FF000000" svg:SvgObject.Id="line483">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="65.1969,33.5254" EndPoint="63.3969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line485" Brush="#FF000000" svg:SvgObject.Id="line485">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="63.3969,35.3254" EndPoint="59.7969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line487" Brush="#FF000000" svg:SvgObject.Id="line487">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="59.7969,35.3254" EndPoint="57.9969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line489" Brush="#FF000000" svg:SvgObject.Id="line489">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="57.9969,33.5254" EndPoint="56.1969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line491" Brush="#FF000000" svg:SvgObject.Id="line491">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="56.1969,35.3254" EndPoint="52.5969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line493" Brush="#FF000000" svg:SvgObject.Id="line493">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="52.5969,35.3254" EndPoint="50.7969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line495" Brush="#FF000000" svg:SvgObject.Id="line495">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="50.7969,33.5254" EndPoint="48.9969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line497" Brush="#FF000000" svg:SvgObject.Id="line497">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="48.9969,35.3254" EndPoint="45.3969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line499" Brush="#FF000000" svg:SvgObject.Id="line499">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="45.3969,35.3254" EndPoint="43.5969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line501" Brush="#FF000000" svg:SvgObject.Id="line501">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="43.5969,33.5254" EndPoint="41.7969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line503" Brush="#FF000000" svg:SvgObject.Id="line503">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="41.7969,35.3254" EndPoint="38.1969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line505" Brush="#FF000000" svg:SvgObject.Id="line505">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="38.1969,35.3254" EndPoint="36.3969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line507" Brush="#FF000000" svg:SvgObject.Id="line507">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="36.3969,33.5254" EndPoint="34.5969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line509" Brush="#FF000000" svg:SvgObject.Id="line509">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="34.5969,35.3254" EndPoint="30.9969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line511" Brush="#FF000000" svg:SvgObject.Id="line511">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="30.9969,35.3254" EndPoint="29.1969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line513" Brush="#FF000000" svg:SvgObject.Id="line513">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="29.1969,33.5254" EndPoint="27.3969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line515" Brush="#FF000000" svg:SvgObject.Id="line515">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="27.3969,35.3254" EndPoint="23.7969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line517" Brush="#FF000000" svg:SvgObject.Id="line517">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="23.7969,35.3254" EndPoint="21.9969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line519" Brush="#FF000000" svg:SvgObject.Id="line519">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="21.9969,33.5254" EndPoint="20.1969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line521" Brush="#FF000000" svg:SvgObject.Id="line521">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="20.1969,35.3254" EndPoint="16.5969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line523" Brush="#FF000000" svg:SvgObject.Id="line523">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="14.7969,33.5254" EndPoint="16.5969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line525" Brush="#FF000000" svg:SvgObject.Id="line525">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="14.7969,33.5254" EndPoint="12.9969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line527" Brush="#FF000000" svg:SvgObject.Id="line527">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="9.3969,35.3254" EndPoint="12.9969,35.3254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line529" Brush="#FF000000" svg:SvgObject.Id="line529">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="9.3969,35.3254" EndPoint="7.5969,33.5254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line531" Brush="#FF000000" svg:SvgObject.Id="line531">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="93.9967,33.5254" EndPoint="93.9967,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line533" Brush="#FF000000" svg:SvgObject.Id="line533">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="86.7967,33.5254" EndPoint="86.7967,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line535" Brush="#FF000000" svg:SvgObject.Id="line535">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="79.5967,33.5254" EndPoint="79.5967,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line537" Brush="#FF000000" svg:SvgObject.Id="line537">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="72.3967,33.5254" EndPoint="72.3967,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line539" Brush="#FF000000" svg:SvgObject.Id="line539">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="65.1969,33.5254" EndPoint="65.1969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line541" Brush="#FF000000" svg:SvgObject.Id="line541">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="57.9969,33.5254" EndPoint="57.9969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line543" Brush="#FF000000" svg:SvgObject.Id="line543">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="50.7969,33.5254" EndPoint="50.7969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line545" Brush="#FF000000" svg:SvgObject.Id="line545">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="43.5969,33.5254" EndPoint="43.5969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line547" Brush="#FF000000" svg:SvgObject.Id="line547">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="36.3969,33.5254" EndPoint="36.3969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line549" Brush="#FF000000" svg:SvgObject.Id="line549">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="29.1969,33.5254" EndPoint="29.1969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line551" Brush="#FF000000" svg:SvgObject.Id="line551">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="21.9969,33.5254" EndPoint="21.9969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line553" Brush="#FF000000" svg:SvgObject.Id="line553">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="14.7969,33.5254" EndPoint="14.7969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line555" Brush="#FF000000" svg:SvgObject.Id="line555">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.57599998" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="7.5969,33.5254" EndPoint="7.5969,22.7254" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup x:Name="g557" Opacity="1" svg:SvgObject.Id="g557">
+          <DrawingGroup x:Name="g561" Opacity="1" svg:SvgObject.Id="g561">
+            <GeometryDrawing x:Name="line565" Brush="#FF000000" svg:SvgObject.Id="line565">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="216.037,151.245" EndPoint="215.317,151.245" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line567" Brush="#FF000000" svg:SvgObject.Id="line567">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="216.037,151.245" EndPoint="216.037,146.925" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line569" Brush="#FF000000" svg:SvgObject.Id="line569">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="215.317,146.925" EndPoint="216.037,146.925" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line571" Brush="#FF000000" svg:SvgObject.Id="line571">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="197.317,146.925" EndPoint="198.037,146.925" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line573" Brush="#FF000000" svg:SvgObject.Id="line573">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="197.317,146.925" EndPoint="197.317,151.245" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line575" Brush="#FF000000" svg:SvgObject.Id="line575">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="198.037,151.245" EndPoint="197.317,151.245" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line577" Brush="#FF000000" svg:SvgObject.Id="line577">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,140.445" EndPoint="203.077,141.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line579" Brush="#FF000000" svg:SvgObject.Id="line579">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="210.277,141.165" EndPoint="203.077,141.165" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line581" Brush="#FF000000" svg:SvgObject.Id="line581">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="210.277,141.165" EndPoint="210.277,140.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line583" Brush="#FF000000" svg:SvgObject.Id="line583">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="209.917,157.005" EndPoint="203.077,157.005" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line585" Brush="#FF000000" svg:SvgObject.Id="line585">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="209.917,157.005" EndPoint="209.917,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line587" Brush="#FF000000" svg:SvgObject.Id="line587">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.14399999" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,157.005" EndPoint="203.077,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line589" Brush="#FF000000" svg:SvgObject.Id="line589">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="200.557,157.725" EndPoint="203.077,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line591" Brush="#FF000000" svg:SvgObject.Id="line591">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="212.797,140.445" EndPoint="210.277,140.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line593" Brush="#FF000000" svg:SvgObject.Id="line593">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="210.277,140.445" EndPoint="203.077,140.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line595" Brush="#FF000000" svg:SvgObject.Id="line595">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,140.445" EndPoint="200.557,140.445" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line597" Brush="#FF000000" svg:SvgObject.Id="line597">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="203.077,157.725" EndPoint="209.917,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line599" Brush="#FF000000" svg:SvgObject.Id="line599">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="209.917,157.725" EndPoint="212.797,157.725" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line601" Brush="#FF000000" svg:SvgObject.Id="line601">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="215.317,151.245" EndPoint="215.317,151.965" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line603" Brush="#FF000000" svg:SvgObject.Id="line603">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="215.317,146.925" EndPoint="215.317,146.205" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line605" Brush="#FF000000" svg:SvgObject.Id="line605">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="198.037,151.245" EndPoint="198.037,151.965" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="line607" Brush="#FF000000" svg:SvgObject.Id="line607">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <LineGeometry StartPoint="198.037,146.925" EndPoint="198.037,146.205" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle609" svg:SvgObject.Id="circle609">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="5.04" RadiusY="5.04" Center="206.677,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="circle611" svg:SvgObject.Id="circle611">
+              <GeometryDrawing.Pen>
+                <Pen Brush="#FFFFFFFF" Thickness="0.43200001" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="0.72" RadiusY="0.72" Center="206.677,149.085" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingGroup>
+      </DrawingGroup>
+    </DrawingGroup>
+    <DrawingGroup Opacity="1" Transform="1,0,0,1,-4.24253,-18.367789">
+      <DrawingGroup x:Name="copper1" Opacity="1" svg:SvgObject.Id="copper1">
+        <DrawingGroup x:Name="copper0" Opacity="1" svg:SvgObject.Id="copper0">
+          <GeometryDrawing x:Name="connector81pad" svg:SvgObject.Id="connector81pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="47.1969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector73pad" svg:SvgObject.Id="connector73pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="18.3969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector89pad" svg:SvgObject.Id="connector89pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="75.9967,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector77pad" svg:SvgObject.Id="connector77pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="32.7969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector85pad" svg:SvgObject.Id="connector85pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="61.5969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector93pad" svg:SvgObject.Id="connector93pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="90.3967,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector71pad" svg:SvgObject.Id="connector71pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="11.1969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="rect622" svg:SvgObject.Id="rect622">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <RectangleGeometry RadiusX="0" RadiusY="0" Rect="9.3002,29.8287,3.7933,3.7933" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector75pad" svg:SvgObject.Id="connector75pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="25.5969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector79pad" svg:SvgObject.Id="connector79pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="39.9969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector83pad" svg:SvgObject.Id="connector83pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="54.3969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector87pad" svg:SvgObject.Id="connector87pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="68.7969,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector91pad" svg:SvgObject.Id="connector91pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="83.1967,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector95pad" svg:SvgObject.Id="connector95pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="97.5967,31.7254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector72pad" svg:SvgObject.Id="connector72pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="11.1969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector74pad" svg:SvgObject.Id="connector74pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="18.3969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector76pad" svg:SvgObject.Id="connector76pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="25.5969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector78pad" svg:SvgObject.Id="connector78pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="32.7969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector80pad" svg:SvgObject.Id="connector80pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="39.9969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector82pad" svg:SvgObject.Id="connector82pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="47.1969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector84pad" svg:SvgObject.Id="connector84pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="54.3969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector86pad" svg:SvgObject.Id="connector86pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="61.5969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector88pad" svg:SvgObject.Id="connector88pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="68.7969,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector90pad" svg:SvgObject.Id="connector90pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="75.9967,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector92pad" svg:SvgObject.Id="connector92pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="83.1967,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector94pad" svg:SvgObject.Id="connector94pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="90.3967,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing x:Name="connector96pad" svg:SvgObject.Id="connector96pad">
+            <GeometryDrawing.Pen>
+              <Pen Brush="#FFF7BD13" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="97.5967,24.5254" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+        </DrawingGroup>
+      </DrawingGroup>
+    </DrawingGroup>
+  </DrawingGroup>
+</DrawingGroup>
