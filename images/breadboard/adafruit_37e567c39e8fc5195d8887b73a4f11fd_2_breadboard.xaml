@@ -261,7 +261,7 @@
             <PathGeometry FillRule="Nonzero" Figures="M24.412,54.743L24.412,54.743C25.195,54.743,25.829,55.378,25.829,56.16L25.829,56.16C25.829,56.943,25.194,57.577,24.412,57.577L24.412,57.577C23.629,57.577,22.995,56.942,22.995,56.16L22.995,56.16C22.995,55.377,23.629,54.743,24.412,54.743z" />
           </GeometryDrawing.Geometry>
         </GeometryDrawing>
-        <GeometryDrawing x:Name="connector15pin" svg:SvgObject.Id="connector15pin" svg:SvgObject.Class="st3">
+        <GeometryDrawing x:Name="connector15pin" Brush="#00000000" svg:SvgObject.Id="connector15pin" svg:SvgObject.Class="st3">
           <GeometryDrawing.Pen>
             <Pen Brush="#FF9A916C" Thickness="0.8504" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
           </GeometryDrawing.Pen>
@@ -274,7 +274,7 @@
             <PathGeometry FillRule="Nonzero" Figures="M3.089,40.779L10.913,40.779 10.913,44.181 3.089,44.181 3.089,40.779 M5.3,42.48C5.3,43.419 6.061,44.181 7.001,44.181 7.941,44.181 8.702,43.42 8.702,42.48 8.702,41.54 7.94,40.779 7,40.779 6.06,40.779 5.3,41.541 5.3,42.48z" />
           </GeometryDrawing.Geometry>
         </GeometryDrawing>
-        <GeometryDrawing x:Name="connector16pin" svg:SvgObject.Id="connector16pin" svg:SvgObject.Class="st3">
+        <GeometryDrawing x:Name="connector16pin" Brush="#00000000" svg:SvgObject.Id="connector16pin" svg:SvgObject.Class="st3">
           <GeometryDrawing.Pen>
             <Pen Brush="#FF9A916C" Thickness="0.8504" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
           </GeometryDrawing.Pen>
@@ -287,7 +287,7 @@
             <PathGeometry FillRule="Nonzero" Figures="M3.089,35.11L10.913,35.11 10.913,38.512 3.089,38.512 3.089,35.11 M5.3,36.811C5.3,37.75 6.061,38.512 7.001,38.512 7.941,38.512 8.702,37.751 8.702,36.811L8.702,36.811C8.702,35.872 7.941,35.11 7.001,35.11 6.061,35.11 5.3,35.871 5.3,36.811z" />
           </GeometryDrawing.Geometry>
         </GeometryDrawing>
-        <GeometryDrawing x:Name="connector17pin" svg:SvgObject.Id="connector17pin" svg:SvgObject.Class="st3">
+        <GeometryDrawing x:Name="connector17pin" Brush="#00000000" svg:SvgObject.Id="connector17pin" svg:SvgObject.Class="st3">
           <GeometryDrawing.Pen>
             <Pen Brush="#FF9A916C" Thickness="0.8504" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
           </GeometryDrawing.Pen>
@@ -300,7 +300,7 @@
             <PathGeometry FillRule="Nonzero" Figures="M3.089,46.449L10.913,46.449 10.913,49.851 3.089,49.851 3.089,46.449 M5.3,48.149C5.3,49.089 6.061,49.85 7,49.85 7.939,49.85 8.701,49.089 8.701,48.149 8.701,47.209 7.94,46.449 7,46.449 6.06,46.449 5.3,47.21 5.3,48.149z" />
           </GeometryDrawing.Geometry>
         </GeometryDrawing>
-        <GeometryDrawing x:Name="connector18pin" svg:SvgObject.Id="connector18pin" svg:SvgObject.Class="st3">
+        <GeometryDrawing x:Name="connector18pin" Brush="#00000000" svg:SvgObject.Id="connector18pin" svg:SvgObject.Class="st3">
           <GeometryDrawing.Pen>
             <Pen Brush="#FF9A916C" Thickness="0.8504" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
           </GeometryDrawing.Pen>
@@ -313,7 +313,7 @@
             <PathGeometry FillRule="Nonzero" Figures="M30.811,13.056L34.213,13.056 34.213,20.88 30.811,20.88 30.811,13.056 M30.811,16.968C30.811,17.907 31.572,18.669 32.512,18.669 33.451,18.669 34.213,17.908 34.213,16.968 34.213,16.028 33.452,15.267 32.512,15.267 31.573,15.267 30.811,16.029 30.811,16.968z" />
           </GeometryDrawing.Geometry>
         </GeometryDrawing>
-        <GeometryDrawing x:Name="connector19pin" svg:SvgObject.Id="connector19pin" svg:SvgObject.Class="st3">
+        <GeometryDrawing x:Name="connector19pin" Brush="#00000000" svg:SvgObject.Id="connector19pin" svg:SvgObject.Class="st3">
           <GeometryDrawing.Pen>
             <Pen Brush="#FF9A916C" Thickness="0.8504" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
           </GeometryDrawing.Pen>
@@ -326,7 +326,7 @@
             <PathGeometry FillRule="Nonzero" Figures="M25.142,13.056L28.544,13.056 28.544,20.88 25.142,20.88 25.142,13.056 M25.142,16.968C25.142,17.907 25.903,18.669 26.843,18.669 27.783,18.669 28.544,17.908 28.544,16.968 28.544,16.028 27.783,15.267 26.843,15.267 25.903,15.267 25.142,16.029 25.142,16.968z" />
           </GeometryDrawing.Geometry>
         </GeometryDrawing>
-        <GeometryDrawing x:Name="connector20pin" svg:SvgObject.Id="connector20pin" svg:SvgObject.Class="st3">
+        <GeometryDrawing x:Name="connector20pin" Brush="#00000000" svg:SvgObject.Id="connector20pin" svg:SvgObject.Class="st3">
           <GeometryDrawing.Pen>
             <Pen Brush="#FF9A916C" Thickness="0.8504" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
           </GeometryDrawing.Pen>
@@ -944,7 +944,7 @@
           </GeometryDrawing.Geometry>
         </GeometryDrawing>
         <DrawingGroup Opacity="1">
-          <GeometryDrawing svg:SvgObject.Class="st9">
+          <GeometryDrawing Brush="#00000000" svg:SvgObject.Class="st9">
             <GeometryDrawing.Pen>
               <Pen Brush="#FF282828" Thickness="1" StartLineCap="Round" EndLineCap="Round" LineJoin="Miter" />
             </GeometryDrawing.Pen>

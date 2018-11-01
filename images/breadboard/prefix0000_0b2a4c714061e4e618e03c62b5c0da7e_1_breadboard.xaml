@@ -180,7 +180,7 @@
         </GeometryDrawing>
       </DrawingGroup>
     </DrawingGroup>
-    <GeometryDrawing x:Name="connector20pin" svg:SvgObject.Id="connector20pin">
+    <GeometryDrawing x:Name="connector20pin" Brush="#00000000" svg:SvgObject.Id="connector20pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -188,7 +188,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="6.48,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector21pin" svg:SvgObject.Id="connector21pin">
+    <GeometryDrawing x:Name="connector21pin" Brush="#00000000" svg:SvgObject.Id="connector21pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -196,7 +196,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="13.68,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector22pin" svg:SvgObject.Id="connector22pin">
+    <GeometryDrawing x:Name="connector22pin" Brush="#00000000" svg:SvgObject.Id="connector22pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -204,7 +204,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="20.88,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector23pin" svg:SvgObject.Id="connector23pin">
+    <GeometryDrawing x:Name="connector23pin" Brush="#00000000" svg:SvgObject.Id="connector23pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -212,7 +212,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="28.08,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector24pin" svg:SvgObject.Id="connector24pin">
+    <GeometryDrawing x:Name="connector24pin" Brush="#00000000" svg:SvgObject.Id="connector24pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -220,7 +220,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="35.28,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector25pin" svg:SvgObject.Id="connector25pin">
+    <GeometryDrawing x:Name="connector25pin" Brush="#00000000" svg:SvgObject.Id="connector25pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -228,7 +228,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="42.48,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector26pin" svg:SvgObject.Id="connector26pin">
+    <GeometryDrawing x:Name="connector26pin" Brush="#00000000" svg:SvgObject.Id="connector26pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -236,7 +236,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="49.68,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector27pin" svg:SvgObject.Id="connector27pin">
+    <GeometryDrawing x:Name="connector27pin" Brush="#00000000" svg:SvgObject.Id="connector27pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -244,7 +244,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="56.88,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector28pin" svg:SvgObject.Id="connector28pin">
+    <GeometryDrawing x:Name="connector28pin" Brush="#00000000" svg:SvgObject.Id="connector28pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -252,7 +252,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="64.08,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector29pin" svg:SvgObject.Id="connector29pin">
+    <GeometryDrawing x:Name="connector29pin" Brush="#00000000" svg:SvgObject.Id="connector29pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -260,7 +260,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="71.28,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector30pin" svg:SvgObject.Id="connector30pin">
+    <GeometryDrawing x:Name="connector30pin" Brush="#00000000" svg:SvgObject.Id="connector30pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -268,7 +268,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="78.48,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector31pin" svg:SvgObject.Id="connector31pin">
+    <GeometryDrawing x:Name="connector31pin" Brush="#00000000" svg:SvgObject.Id="connector31pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -276,7 +276,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="85.68,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector32pin" svg:SvgObject.Id="connector32pin">
+    <GeometryDrawing x:Name="connector32pin" Brush="#00000000" svg:SvgObject.Id="connector32pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -284,7 +284,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="92.88,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector33pin" svg:SvgObject.Id="connector33pin">
+    <GeometryDrawing x:Name="connector33pin" Brush="#00000000" svg:SvgObject.Id="connector33pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -292,7 +292,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="100.08,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector34pin" svg:SvgObject.Id="connector34pin">
+    <GeometryDrawing x:Name="connector34pin" Brush="#00000000" svg:SvgObject.Id="connector34pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -300,7 +300,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="107.28,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector35pin" svg:SvgObject.Id="connector35pin">
+    <GeometryDrawing x:Name="connector35pin" Brush="#00000000" svg:SvgObject.Id="connector35pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -308,7 +308,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="114.48,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector36pin" svg:SvgObject.Id="connector36pin">
+    <GeometryDrawing x:Name="connector36pin" Brush="#00000000" svg:SvgObject.Id="connector36pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -316,7 +316,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="121.68,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector37pin" svg:SvgObject.Id="connector37pin">
+    <GeometryDrawing x:Name="connector37pin" Brush="#00000000" svg:SvgObject.Id="connector37pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -324,7 +324,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="128.88,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector38pin" svg:SvgObject.Id="connector38pin">
+    <GeometryDrawing x:Name="connector38pin" Brush="#00000000" svg:SvgObject.Id="connector38pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -332,7 +332,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="136.08,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector39pin" svg:SvgObject.Id="connector39pin">
+    <GeometryDrawing x:Name="connector39pin" Brush="#00000000" svg:SvgObject.Id="connector39pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -340,7 +340,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="143.28,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector40pin" svg:SvgObject.Id="connector40pin">
+    <GeometryDrawing x:Name="connector40pin" Brush="#00000000" svg:SvgObject.Id="connector40pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -348,7 +348,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="150.48,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector41pin" svg:SvgObject.Id="connector41pin">
+    <GeometryDrawing x:Name="connector41pin" Brush="#00000000" svg:SvgObject.Id="connector41pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -356,7 +356,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="157.68,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector42pin" svg:SvgObject.Id="connector42pin">
+    <GeometryDrawing x:Name="connector42pin" Brush="#00000000" svg:SvgObject.Id="connector42pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -364,7 +364,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="164.88,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector43pin" svg:SvgObject.Id="connector43pin">
+    <GeometryDrawing x:Name="connector43pin" Brush="#00000000" svg:SvgObject.Id="connector43pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -372,7 +372,7 @@
         <EllipseGeometry RadiusX="1.8967" RadiusY="1.8967" Center="172.08,24.9193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector44pin" svg:SvgObject.Id="connector44pin">
+    <GeometryDrawing x:Name="connector44pin" Brush="#00000000" svg:SvgObject.Id="connector44pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="0.95867997" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -462,7 +462,7 @@
         <RectangleGeometry RadiusX="1.4173" RadiusY="1.4173" Rect="107.302,57.702,2.8346,2.8346" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector55pin" svg:SvgObject.Id="connector55pin">
+    <GeometryDrawing x:Name="connector55pin" Brush="#00000000" svg:SvgObject.Id="connector55pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -470,7 +470,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="29.88,48.3193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector56pin" svg:SvgObject.Id="connector56pin">
+    <GeometryDrawing x:Name="connector56pin" Brush="#00000000" svg:SvgObject.Id="connector56pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -478,7 +478,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="22.68,48.3193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector57pin" svg:SvgObject.Id="connector57pin">
+    <GeometryDrawing x:Name="connector57pin" Brush="#00000000" svg:SvgObject.Id="connector57pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -486,7 +486,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="15.48,48.3193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector58pin" svg:SvgObject.Id="connector58pin">
+    <GeometryDrawing x:Name="connector58pin" Brush="#00000000" svg:SvgObject.Id="connector58pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -494,7 +494,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="15.48,55.5193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector59pin" svg:SvgObject.Id="connector59pin">
+    <GeometryDrawing x:Name="connector59pin" Brush="#00000000" svg:SvgObject.Id="connector59pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -502,7 +502,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="22.68,55.5193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector60pin" svg:SvgObject.Id="connector60pin">
+    <GeometryDrawing x:Name="connector60pin" Brush="#00000000" svg:SvgObject.Id="connector60pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -510,7 +510,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="29.88,55.5193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector61pin" svg:SvgObject.Id="connector61pin">
+    <GeometryDrawing x:Name="connector61pin" Brush="#00000000" svg:SvgObject.Id="connector61pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -518,7 +518,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="15.48,41.1193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector62pin" svg:SvgObject.Id="connector62pin">
+    <GeometryDrawing x:Name="connector62pin" Brush="#00000000" svg:SvgObject.Id="connector62pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -526,7 +526,7 @@
         <EllipseGeometry RadiusX="2.0767" RadiusY="2.0767" Center="22.68,41.1193" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector63pin" svg:SvgObject.Id="connector63pin">
+    <GeometryDrawing x:Name="connector63pin" Brush="#00000000" svg:SvgObject.Id="connector63pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.31868005" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -840,7 +840,7 @@
         <RectangleGeometry RadiusX="0" RadiusY="0" Rect="69.874,39.7134,4.252,4.252" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector102pin" svg:SvgObject.Id="connector102pin">
+    <GeometryDrawing x:Name="connector102pin" Brush="#00000000" svg:SvgObject.Id="connector102pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -848,7 +848,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="23.726,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector103pin" svg:SvgObject.Id="connector103pin">
+    <GeometryDrawing x:Name="connector103pin" Brush="#00000000" svg:SvgObject.Id="connector103pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -856,7 +856,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="23.726,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector104pin" svg:SvgObject.Id="connector104pin">
+    <GeometryDrawing x:Name="connector104pin" Brush="#00000000" svg:SvgObject.Id="connector104pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -864,7 +864,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="30.926,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector105pin" svg:SvgObject.Id="connector105pin">
+    <GeometryDrawing x:Name="connector105pin" Brush="#00000000" svg:SvgObject.Id="connector105pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -872,7 +872,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="30.926,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector106pin" svg:SvgObject.Id="connector106pin">
+    <GeometryDrawing x:Name="connector106pin" Brush="#00000000" svg:SvgObject.Id="connector106pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -880,7 +880,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="38.126,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector107pin" svg:SvgObject.Id="connector107pin">
+    <GeometryDrawing x:Name="connector107pin" Brush="#00000000" svg:SvgObject.Id="connector107pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -888,7 +888,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="38.126,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector108pin" svg:SvgObject.Id="connector108pin">
+    <GeometryDrawing x:Name="connector108pin" Brush="#00000000" svg:SvgObject.Id="connector108pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -896,7 +896,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="45.326,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector109pin" svg:SvgObject.Id="connector109pin">
+    <GeometryDrawing x:Name="connector109pin" Brush="#00000000" svg:SvgObject.Id="connector109pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -904,7 +904,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="45.326,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector110pin" svg:SvgObject.Id="connector110pin">
+    <GeometryDrawing x:Name="connector110pin" Brush="#00000000" svg:SvgObject.Id="connector110pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -912,7 +912,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="52.526,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector111pin" svg:SvgObject.Id="connector111pin">
+    <GeometryDrawing x:Name="connector111pin" Brush="#00000000" svg:SvgObject.Id="connector111pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -920,7 +920,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="52.526,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector112pin" svg:SvgObject.Id="connector112pin">
+    <GeometryDrawing x:Name="connector112pin" Brush="#00000000" svg:SvgObject.Id="connector112pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -928,7 +928,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="59.726,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector113pin" svg:SvgObject.Id="connector113pin">
+    <GeometryDrawing x:Name="connector113pin" Brush="#00000000" svg:SvgObject.Id="connector113pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -936,7 +936,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="59.726,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector114pin" svg:SvgObject.Id="connector114pin">
+    <GeometryDrawing x:Name="connector114pin" Brush="#00000000" svg:SvgObject.Id="connector114pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -944,7 +944,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="66.926,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector115pin" svg:SvgObject.Id="connector115pin">
+    <GeometryDrawing x:Name="connector115pin" Brush="#00000000" svg:SvgObject.Id="connector115pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -952,7 +952,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="66.926,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector116pin" svg:SvgObject.Id="connector116pin">
+    <GeometryDrawing x:Name="connector116pin" Brush="#00000000" svg:SvgObject.Id="connector116pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -960,7 +960,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="74.1262,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector117pin" svg:SvgObject.Id="connector117pin">
+    <GeometryDrawing x:Name="connector117pin" Brush="#00000000" svg:SvgObject.Id="connector117pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -968,7 +968,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="74.1262,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector118pin" svg:SvgObject.Id="connector118pin">
+    <GeometryDrawing x:Name="connector118pin" Brush="#00000000" svg:SvgObject.Id="connector118pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -976,7 +976,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="81.3262,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector119pin" svg:SvgObject.Id="connector119pin">
+    <GeometryDrawing x:Name="connector119pin" Brush="#00000000" svg:SvgObject.Id="connector119pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -984,7 +984,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="81.3262,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector120pin" svg:SvgObject.Id="connector120pin">
+    <GeometryDrawing x:Name="connector120pin" Brush="#00000000" svg:SvgObject.Id="connector120pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -992,7 +992,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="88.5262,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector121pin" svg:SvgObject.Id="connector121pin">
+    <GeometryDrawing x:Name="connector121pin" Brush="#00000000" svg:SvgObject.Id="connector121pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1000,7 +1000,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="88.5262,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector122pin" svg:SvgObject.Id="connector122pin">
+    <GeometryDrawing x:Name="connector122pin" Brush="#00000000" svg:SvgObject.Id="connector122pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1008,7 +1008,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="95.7262,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector123pin" svg:SvgObject.Id="connector123pin">
+    <GeometryDrawing x:Name="connector123pin" Brush="#00000000" svg:SvgObject.Id="connector123pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1016,7 +1016,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="95.7262,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector124pin" svg:SvgObject.Id="connector124pin">
+    <GeometryDrawing x:Name="connector124pin" Brush="#00000000" svg:SvgObject.Id="connector124pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1024,7 +1024,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="102.926,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector125pin" svg:SvgObject.Id="connector125pin">
+    <GeometryDrawing x:Name="connector125pin" Brush="#00000000" svg:SvgObject.Id="connector125pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1032,7 +1032,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="102.926,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector126pin" svg:SvgObject.Id="connector126pin">
+    <GeometryDrawing x:Name="connector126pin" Brush="#00000000" svg:SvgObject.Id="connector126pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1040,7 +1040,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="110.126,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector127pin" svg:SvgObject.Id="connector127pin">
+    <GeometryDrawing x:Name="connector127pin" Brush="#00000000" svg:SvgObject.Id="connector127pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1048,7 +1048,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="110.126,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector128pin" svg:SvgObject.Id="connector128pin">
+    <GeometryDrawing x:Name="connector128pin" Brush="#00000000" svg:SvgObject.Id="connector128pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1056,7 +1056,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="117.326,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector129pin" svg:SvgObject.Id="connector129pin">
+    <GeometryDrawing x:Name="connector129pin" Brush="#00000000" svg:SvgObject.Id="connector129pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1064,7 +1064,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="117.326,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector130pin" svg:SvgObject.Id="connector130pin">
+    <GeometryDrawing x:Name="connector130pin" Brush="#00000000" svg:SvgObject.Id="connector130pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1072,7 +1072,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="124.526,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector131pin" svg:SvgObject.Id="connector131pin">
+    <GeometryDrawing x:Name="connector131pin" Brush="#00000000" svg:SvgObject.Id="connector131pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1080,7 +1080,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="124.526,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector132pin" svg:SvgObject.Id="connector132pin">
+    <GeometryDrawing x:Name="connector132pin" Brush="#00000000" svg:SvgObject.Id="connector132pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1088,7 +1088,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="131.726,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector133pin" svg:SvgObject.Id="connector133pin">
+    <GeometryDrawing x:Name="connector133pin" Brush="#00000000" svg:SvgObject.Id="connector133pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1096,7 +1096,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="131.726,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector134pin" svg:SvgObject.Id="connector134pin">
+    <GeometryDrawing x:Name="connector134pin" Brush="#00000000" svg:SvgObject.Id="connector134pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1104,7 +1104,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="138.926,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector135pin" svg:SvgObject.Id="connector135pin">
+    <GeometryDrawing x:Name="connector135pin" Brush="#00000000" svg:SvgObject.Id="connector135pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1112,7 +1112,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="138.926,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector136pin" svg:SvgObject.Id="connector136pin">
+    <GeometryDrawing x:Name="connector136pin" Brush="#00000000" svg:SvgObject.Id="connector136pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1120,7 +1120,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="146.126,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector137pin" svg:SvgObject.Id="connector137pin">
+    <GeometryDrawing x:Name="connector137pin" Brush="#00000000" svg:SvgObject.Id="connector137pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1128,7 +1128,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="146.126,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector138pin" svg:SvgObject.Id="connector138pin">
+    <GeometryDrawing x:Name="connector138pin" Brush="#00000000" svg:SvgObject.Id="connector138pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1136,7 +1136,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="153.326,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector139pin" svg:SvgObject.Id="connector139pin">
+    <GeometryDrawing x:Name="connector139pin" Brush="#00000000" svg:SvgObject.Id="connector139pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1144,7 +1144,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="153.326,6.3213" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector140pin" svg:SvgObject.Id="connector140pin">
+    <GeometryDrawing x:Name="connector140pin" Brush="#00000000" svg:SvgObject.Id="connector140pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1152,7 +1152,7 @@
         <EllipseGeometry RadiusX="1.8258" RadiusY="1.8258" Center="160.526,13.5212" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector141pin" svg:SvgObject.Id="connector141pin">
+    <GeometryDrawing x:Name="connector141pin" Brush="#00000000" svg:SvgObject.Id="connector141pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.10040998" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1175,7 +1175,7 @@
         <RectangleGeometry RadiusX="0" RadiusY="0" Rect="47.664,43.8913,3.312,4.536" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector145pin" svg:SvgObject.Id="connector145pin">
+    <GeometryDrawing x:Name="connector145pin" Brush="#00000000" svg:SvgObject.Id="connector145pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.67867994" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1183,7 +1183,7 @@
         <EllipseGeometry RadiusX="2.2567" RadiusY="2.2567" Center="60.9024,74.2392" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector146pin" svg:SvgObject.Id="connector146pin">
+    <GeometryDrawing x:Name="connector146pin" Brush="#00000000" svg:SvgObject.Id="connector146pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.67867994" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1191,7 +1191,7 @@
         <EllipseGeometry RadiusX="2.2567" RadiusY="2.2567" Center="50.9811,74.2392" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector147pin" svg:SvgObject.Id="connector147pin">
+    <GeometryDrawing x:Name="connector147pin" Brush="#00000000" svg:SvgObject.Id="connector147pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.67867994" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
@@ -1199,7 +1199,7 @@
         <EllipseGeometry RadiusX="2.2567" RadiusY="2.2567" Center="128.943,74.2392" />
       </GeometryDrawing.Geometry>
     </GeometryDrawing>
-    <GeometryDrawing x:Name="connector148pin" svg:SvgObject.Id="connector148pin">
+    <GeometryDrawing x:Name="connector148pin" Brush="#00000000" svg:SvgObject.Id="connector148pin">
       <GeometryDrawing.Pen>
         <Pen Brush="#FF9A916C" Thickness="1.67867994" StartLineCap="Flat" EndLineCap="Flat" LineJoin="Miter" />
       </GeometryDrawing.Pen>
