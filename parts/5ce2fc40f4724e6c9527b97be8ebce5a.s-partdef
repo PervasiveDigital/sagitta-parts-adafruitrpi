@@ -1,1 +1,3021 @@
-{"Id":"5ce2fc40-f472-4e6c-9527-b97be8ebce5a","Title":"Adafruit Stereo 3W Speaker Bonnet","Description":"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Hey Mr. DJ! Turn up that Raspberry Pi mix to the <span style=\" font-style:italic;\">max</span> with this cute 3W Stereo Amplifier Bonnet for Raspberry Pi. (It's not big enough to be an official HAT, so we called it a bonnet, you see?) It's the exact same size as a Raspberry Pi Zero but works with any and all Raspberry Pi computers with a 2x20 connector - A+, B+, Zero, Pi 2, Pi 3, etc. </p>\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">This Bonnet uses I2S a digital sound standard, so you get really crisp audio. The digital data goes right into the amplifier so there's no static like you hear from the headphone jack. And it's super easy to get started. Just plug in any 4 to 8 ohm speakers, up to 3 Watts, run our installer script on any Raspberry Pi, reboot and you're ready to jam!</p></body></html>","Author":"ladyada","Source":"Fritzing library 'Adafruit Raspberry Pi.fzbz'","Properties":{"part number":"Adafruit #","fritzingModelIndex":"85430343","family":"Adafruit Stereo 3W Speaker Bonnet","variant":"variant 1","layer":null,"fritzingVersion":"0.5.2b.02.18.4756","fritzingPartVersion":"4","fritzingDate":"Wed Dec 7 2016","fritzingModuleId":"prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1"},"Tags":[],"Views":{"breadboard":{"ViewType":"breadboard","ViewImageRef":"breadboard\\prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1_breadboard.xaml","NativeWidthInInches":2.55906,"NativeHeightInInches":1.1811,"Layers":{}},"schematic":{"ViewType":"schematic","ViewImageRef":"schematic\\prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1_schematic.xaml","NativeWidthInInches":1.4,"NativeHeightInInches":2.4,"Layers":{}},"pcb":{"ViewType":"pcb","ViewImageRef":"pcb\\prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1_pcb.xaml","NativeWidthInInches":2.55906,"NativeHeightInInches":1.1811,"Layers":{}}}}
+{
+  "Id": "5ce2fc40-f472-4e6c-9527-b97be8ebce5a",
+  "Title": "Adafruit Stereo 3W Speaker Bonnet",
+  "Description": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Hey Mr. DJ! Turn up that Raspberry Pi mix to the <span style=\" font-style:italic;\">max</span> with this cute 3W Stereo Amplifier Bonnet for Raspberry Pi. (It's not big enough to be an official HAT, so we called it a bonnet, you see?) It's the exact same size as a Raspberry Pi Zero but works with any and all Raspberry Pi computers with a 2x20 connector - A+, B+, Zero, Pi 2, Pi 3, etc. </p>\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">This Bonnet uses I2S a digital sound standard, so you get really crisp audio. The digital data goes right into the amplifier so there's no static like you hear from the headphone jack. And it's super easy to get started. Just plug in any 4 to 8 ohm speakers, up to 3 Watts, run our installer script on any Raspberry Pi, reboot and you're ready to jam!</p></body></html>",
+  "Url": "\nhttps://www.adafruit.com/products/3346",
+  "Author": "ladyada",
+  "Source": "Fritzing library 'Adafruit Raspberry Pi.fzbz'",
+  "Properties": {
+    "part number": "Adafruit #",
+    "fritzingModelIndex": "85430343",
+    "family": "Adafruit Stereo 3W Speaker Bonnet",
+    "variant": "variant 1",
+    "layer": null,
+    "fritzingVersion": "0.5.2b.02.18.4756",
+    "fritzingPartVersion": "4",
+    "fritzingDate": "Wed Dec 7 2016",
+    "fritzingModuleId": "prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1"
+  },
+  "Tags": [],
+  "Views": {
+    "breadboard": {
+      "ViewType": "breadboard",
+      "ViewImageRef": "breadboard\\prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1_breadboard.xaml",
+      "NativeWidthInInches": 2.55906,
+      "NativeHeightInInches": 1.1811,
+      "Layers": {
+        "breadboard": {}
+      }
+    },
+    "schematic": {
+      "ViewType": "schematic",
+      "ViewImageRef": "schematic\\prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1_schematic.xaml",
+      "NativeWidthInInches": 1.4,
+      "NativeHeightInInches": 2.4,
+      "Layers": {
+        "schematic": {}
+      }
+    },
+    "pcb": {
+      "ViewType": "pcb",
+      "ViewImageRef": "pcb\\prefix0000_0b2a4c714061e4e618e03c62b5c0da7e_1_pcb.xaml",
+      "NativeWidthInInches": 2.55906,
+      "NativeHeightInInches": 1.1811,
+      "Layers": {
+        "copper1": {},
+        "silkscreen": {},
+        "copper0": {}
+      }
+    }
+  },
+  "SoftwarePlatforms": {},
+  "Hardware": {
+    "Connectors": {
+      "connector20": {
+        "DisplayName": "SDA",
+        "Description": "SDA",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector20pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector20pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector20pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector20pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector21": {
+        "DisplayName": "SCL",
+        "Description": "SCL",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector21pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector21pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector21pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector21pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector22": {
+        "DisplayName": "TXD",
+        "Description": "TXD",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector22pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector22pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector22pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector22pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector23": {
+        "DisplayName": "RXD",
+        "Description": "RXD",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector23pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector23pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector23pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector23pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector24": {
+        "DisplayName": "GPIO4",
+        "Description": "GPIO4",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector24pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector24pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector24pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector24pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector25": {
+        "DisplayName": "GPIO17",
+        "Description": "GPIO17",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector25pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector25pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector25pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector25pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector26": {
+        "DisplayName": "BCLK",
+        "Description": "BCLK",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector26pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector26pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector26pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector26pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector27": {
+        "DisplayName": "GPIO27",
+        "Description": "GPIO27",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector27pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector27pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector27pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector27pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector28": {
+        "DisplayName": "GPIO22",
+        "Description": "GPIO22",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector28pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector28pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector28pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector28pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector29": {
+        "DisplayName": "GPIO23",
+        "Description": "GPIO23",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector29pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector29pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector29pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector29pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector30": {
+        "DisplayName": "GPIO24",
+        "Description": "GPIO24",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector30pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector30pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector30pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector30pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector31": {
+        "DisplayName": "GPIO25",
+        "Description": "GPIO25",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector31pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector31pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector31pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector31pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector32": {
+        "DisplayName": "SPI_MOSI",
+        "Description": "SPI_MOSI",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector32pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector32pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector32pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector32pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector33": {
+        "DisplayName": "SPI_MISO",
+        "Description": "SPI_MISO",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector33pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector33pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector33pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector33pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector34": {
+        "DisplayName": "SPI_SCLK",
+        "Description": "SPI_SCLK",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector34pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector34pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector34pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector34pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector35": {
+        "DisplayName": "SPI_CE0",
+        "Description": "SPI_CE0",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector35pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector35pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector35pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector35pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector36": {
+        "DisplayName": "SPI_CE1",
+        "Description": "SPI_CE1",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector36pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector36pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector36pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector36pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector37": {
+        "DisplayName": "GPIO5",
+        "Description": "GPIO5",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector37pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector37pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector37pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector37pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector38": {
+        "DisplayName": "GPIO6",
+        "Description": "GPIO6",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector38pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector38pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector38pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector38pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector39": {
+        "DisplayName": "GPIO12",
+        "Description": "GPIO12",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector39pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector39pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector39pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector39pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector40": {
+        "DisplayName": "GPIO13",
+        "Description": "GPIO13",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector40pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector40pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector40pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector40pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector41": {
+        "DisplayName": "GPIO16",
+        "Description": "GPIO16",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector41pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector41pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector41pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector41pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector42": {
+        "DisplayName": "LRCLK",
+        "Description": "LRCLK",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector42pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector42pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector42pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector42pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector43": {
+        "DisplayName": "GPIO20",
+        "Description": "GPIO20",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector43pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector43pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector43pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector43pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector44": {
+        "DisplayName": "DIN",
+        "Description": "DIN",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector44pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector44pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector44pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector44pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector55": {
+        "DisplayName": "5.0V",
+        "Description": "5.0V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector55pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector55pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector55pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector55pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector56": {
+        "DisplayName": "5.0V",
+        "Description": "5.0V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector56pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector56pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector56pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector56pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector57": {
+        "DisplayName": "5.0V",
+        "Description": "5.0V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector57pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector57pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector57pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector57pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector58": {
+        "DisplayName": "3.3V",
+        "Description": "3.3V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector58pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector58pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector58pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector58pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector59": {
+        "DisplayName": "3.3V",
+        "Description": "3.3V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector59pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector59pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector59pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector59pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector60": {
+        "DisplayName": "3.3V",
+        "Description": "3.3V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector60pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector60pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector60pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector60pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector61": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector61pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector61pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector61pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector61pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector62": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector62pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector62pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector62pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector62pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector63": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector63pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector63pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector63pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector63pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector102": {
+        "DisplayName": "3.3V",
+        "Description": "3.3V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector102pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector102pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector102pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector102pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector103": {
+        "DisplayName": "5.0V",
+        "Description": "5.0V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector103pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector103pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector103pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector103pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector104": {
+        "DisplayName": "SDA",
+        "Description": "SDA",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector104pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector104pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector104pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector104pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector105": {
+        "DisplayName": "5.0V",
+        "Description": "5.0V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector105pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector105pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector105pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector105pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector106": {
+        "DisplayName": "SCL",
+        "Description": "SCL",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector106pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector106pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector106pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector106pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector107": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector107pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector107pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector107pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector107pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector108": {
+        "DisplayName": "GPIO4",
+        "Description": "GPIO4",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector108pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector108pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector108pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector108pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector109": {
+        "DisplayName": "TXD",
+        "Description": "TXD",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector109pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector109pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector109pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector109pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector110": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector110pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector110pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector110pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector110pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector111": {
+        "DisplayName": "RXD",
+        "Description": "RXD",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector111pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector111pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector111pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector111pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector112": {
+        "DisplayName": "GPIO17",
+        "Description": "GPIO17",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector112pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector112pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector112pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector112pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector113": {
+        "DisplayName": "BCLK",
+        "Description": "BCLK",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector113pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector113pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector113pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector113pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector114": {
+        "DisplayName": "GPIO27",
+        "Description": "GPIO27",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector114pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector114pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector114pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector114pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector115": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector115pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector115pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector115pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector115pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector116": {
+        "DisplayName": "GPIO22",
+        "Description": "GPIO22",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector116pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector116pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector116pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector116pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector117": {
+        "DisplayName": "GPIO23",
+        "Description": "GPIO23",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector117pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector117pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector117pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector117pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector118": {
+        "DisplayName": "3.3V",
+        "Description": "3.3V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector118pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector118pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector118pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector118pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector119": {
+        "DisplayName": "GPIO24",
+        "Description": "GPIO24",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector119pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector119pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector119pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector119pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector120": {
+        "DisplayName": "SPI_MOSI",
+        "Description": "SPI_MOSI",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector120pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector120pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector120pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector120pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector121": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector121pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector121pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector121pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector121pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector122": {
+        "DisplayName": "SPI_MISO",
+        "Description": "SPI_MISO",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector122pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector122pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector122pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector122pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector123": {
+        "DisplayName": "GPIO25",
+        "Description": "GPIO25",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector123pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector123pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector123pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector123pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector124": {
+        "DisplayName": "SPI_SCLK",
+        "Description": "SPI_SCLK",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector124pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector124pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector124pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector124pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector125": {
+        "DisplayName": "SPI_CE0",
+        "Description": "SPI_CE0",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector125pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector125pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector125pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector125pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector126": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector126pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector126pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector126pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector126pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector127": {
+        "DisplayName": "SPI_CE1",
+        "Description": "SPI_CE1",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector127pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector127pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector127pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector127pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector128": {
+        "DisplayName": "EEDATA",
+        "Description": "EEDATA",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector128pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector128pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector128pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector128pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector129": {
+        "DisplayName": "EECLK",
+        "Description": "EECLK",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector129pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector129pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector129pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector129pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector130": {
+        "DisplayName": "GPIO5",
+        "Description": "GPIO5",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector130pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector130pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector130pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector130pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector131": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector131pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector131pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector131pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector131pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector132": {
+        "DisplayName": "GPIO6",
+        "Description": "GPIO6",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector132pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector132pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector132pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector132pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector133": {
+        "DisplayName": "GPIO12",
+        "Description": "GPIO12",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector133pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector133pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector133pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector133pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector134": {
+        "DisplayName": "GPIO13",
+        "Description": "GPIO13",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector134pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector134pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector134pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector134pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector135": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector135pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector135pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector135pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector135pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector136": {
+        "DisplayName": "LRCLK",
+        "Description": "LRCLK",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector136pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector136pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector136pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector136pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector137": {
+        "DisplayName": "GPIO16",
+        "Description": "GPIO16",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector137pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector137pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector137pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector137pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector138": {
+        "DisplayName": "GPIO26",
+        "Description": "GPIO26",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector138pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector138pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector138pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector138pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector139": {
+        "DisplayName": "GPIO20",
+        "Description": "GPIO20",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector139pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector139pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector139pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector139pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector140": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector140pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector140pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector140pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector140pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector141": {
+        "DisplayName": "DIN",
+        "Description": "DIN",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector141pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector141pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector141pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector141pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector145": {
+        "DisplayName": "RIGHT-",
+        "Description": "RIGHT-",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector145pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector145pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector145pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector145pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector146": {
+        "DisplayName": "RIGHT+",
+        "Description": "RIGHT+",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector146pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector146pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector146pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector146pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector147": {
+        "DisplayName": "LEFT+",
+        "Description": "LEFT+",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector147pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector147pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector147pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector147pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector148": {
+        "DisplayName": "LEFT-",
+        "Description": "LEFT-",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector148pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector148pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector148pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector148pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Buses": {}
+  }
+}

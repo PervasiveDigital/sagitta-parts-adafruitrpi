@@ -1,1 +1,285 @@
-{"Id":"28764ab5-8739-465f-9c81-2d17c10be7b7","Title":"Adafruit PiUART - USB Console and Power Add-on for Raspberry Pi","Description":"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Here's another super handy add-on for your Raspberry Pi computer, perfect for 'head-less' setups! The PiUART adds a MicroUSB to serial connection so you can use any serial port software to connect to the Pi's console. It plugs in and is fast and easy to add whenever you need to connect to your Pi. Two LEDs connect to RX and TX on the serial converter chip so you get blinking whenever data is sent or received.</p>\n<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">We had some space left over, so the PiUART also comes with an on-off switch with a 4 Amp transistor. You can power your Pi through the microUSB port and then use the switch whenever you want to cut power, without having to unplug the cable. Low-power usage Pi's like the Pi Zero and A+ can thus be powered and controlled from a single cable connected to your computer. Heavy-hitter Pi's like the Pi 2 and Pi 3 may draw too much power from a computer USB port, so check if your motherboard has a high-current USB port before trying.</p></body></html>","Author":"ladyada","Source":"Fritzing library 'Adafruit Raspberry Pi.fzbz'","Properties":{"fritzingModelIndex":"85433771","family":"Adafruit PiUART","variant":"variant 1","part number":"Adafruit #3589","layer":null,"fritzingVersion":"0.5.2b.02.18.4756","fritzingPartVersion":"4","fritzingDate":"Tue Aug 29 2017","fritzingModuleId":"adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_16"},"Tags":[],"Views":{"breadboard":{"ViewType":"breadboard","ViewImageRef":"breadboard\\adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_19_breadboard.xaml","NativeWidthInInches":0.787,"NativeHeightInInches":0.817913,"Layers":{}},"schematic":{"ViewType":"schematic","ViewImageRef":"schematic\\adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_19_schematic.xaml","NativeWidthInInches":0.6,"NativeHeightInInches":0.9,"Layers":{}},"pcb":{"ViewType":"pcb","ViewImageRef":"pcb\\adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_19_pcb.xaml","NativeWidthInInches":0.787,"NativeHeightInInches":0.817913,"Layers":{}}}}
+{
+  "Id": "28764ab5-8739-465f-9c81-2d17c10be7b7",
+  "Title": "Adafruit PiUART - USB Console and Power Add-on for Raspberry Pi",
+  "Description": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Here's another super handy add-on for your Raspberry Pi computer, perfect for 'head-less' setups! The PiUART adds a MicroUSB to serial connection so you can use any serial port software to connect to the Pi's console. It plugs in and is fast and easy to add whenever you need to connect to your Pi. Two LEDs connect to RX and TX on the serial converter chip so you get blinking whenever data is sent or received.</p>\n<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">We had some space left over, so the PiUART also comes with an on-off switch with a 4 Amp transistor. You can power your Pi through the microUSB port and then use the switch whenever you want to cut power, without having to unplug the cable. Low-power usage Pi's like the Pi Zero and A+ can thus be powered and controlled from a single cable connected to your computer. Heavy-hitter Pi's like the Pi 2 and Pi 3 may draw too much power from a computer USB port, so check if your motherboard has a high-current USB port before trying.</p></body></html>",
+  "Url": "https://www.adafruit.com/product/3589",
+  "Author": "ladyada",
+  "Source": "Fritzing library 'Adafruit Raspberry Pi.fzbz'",
+  "Properties": {
+    "fritzingModelIndex": "85433771",
+    "family": "Adafruit PiUART",
+    "variant": "variant 1",
+    "part number": "Adafruit #3589",
+    "layer": null,
+    "fritzingVersion": "0.5.2b.02.18.4756",
+    "fritzingPartVersion": "4",
+    "fritzingDate": "Tue Aug 29 2017",
+    "fritzingModuleId": "adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_16"
+  },
+  "Tags": [],
+  "Views": {
+    "breadboard": {
+      "ViewType": "breadboard",
+      "ViewImageRef": "breadboard\\adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_19_breadboard.xaml",
+      "NativeWidthInInches": 0.787,
+      "NativeHeightInInches": 0.817913,
+      "Layers": {
+        "breadboard": {}
+      }
+    },
+    "schematic": {
+      "ViewType": "schematic",
+      "ViewImageRef": "schematic\\adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_19_schematic.xaml",
+      "NativeWidthInInches": 0.6,
+      "NativeHeightInInches": 0.9,
+      "Layers": {
+        "schematic": {}
+      }
+    },
+    "pcb": {
+      "ViewType": "pcb",
+      "ViewImageRef": "pcb\\adafruit_aff5c136e3210c8c2e5421a7f05b5ed6_19_pcb.xaml",
+      "NativeWidthInInches": 0.787,
+      "NativeHeightInInches": 0.817913,
+      "Layers": {
+        "copper1": {},
+        "silkscreen": {},
+        "copper0": {}
+      }
+    }
+  },
+  "SoftwarePlatforms": {},
+  "Hardware": {
+    "Connectors": {
+      "connector17": {
+        "DisplayName": "5V",
+        "Description": "5V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector17pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector17pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector17pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector17pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector19": {
+        "DisplayName": "5V",
+        "Description": "5V",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector19pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector19pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector19pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector19pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector21": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector21pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector21pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector21pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector21pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector23": {
+        "DisplayName": "TXD",
+        "Description": "TXD",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector23pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector23pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector23pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector23pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector24": {
+        "DisplayName": "GND",
+        "Description": "GND",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector24pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector24pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector24pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector24pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      },
+      "connector25": {
+        "DisplayName": "RXD",
+        "Description": "RXD",
+        "Views": {
+          "breadboard": {
+            "Layers": {
+              "breadboard": {
+                "ConnectorIdInVisual": "connector25pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "schematic": {
+            "Layers": {
+              "schematic": {
+                "ConnectorIdInVisual": "connector25pin",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          },
+          "pcb": {
+            "Layers": {
+              "copper0": {
+                "ConnectorIdInVisual": "connector25pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              },
+              "copper1": {
+                "ConnectorIdInVisual": "connector25pad",
+                "ConnectorType": "unknown",
+                "ConnectorRole": "unknown"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Buses": {}
+  }
+}
